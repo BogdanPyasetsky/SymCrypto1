@@ -1,1024 +1,171 @@
-frequency for    : 0
-frequency for  à : 0.00178192
-frequency for  á : 0.00703206
-frequency for  â : 0.0149845
-frequency for  ã : 0.0043823
-frequency for  ä : 0.00767506
-frequency for  å : 0.00396203
-frequency for  æ : 0.00201306
-frequency for  ç : 0.00357329
-frequency for  è : 0.0113608
-frequency for  é : 8.40527e-06
-frequency for  ê : 0.0096545
-frequency for  ë : 0.00267498
-frequency for  ì : 0.0051104
-frequency for  í : 0.0153291
-frequency for  î : 0.0120584
-frequency for  ï : 0.0158492
-frequency for  ð : 0.00419633
-frequency for  ñ : 0.0157809
-frequency for  ò : 0.00749855
-frequency for  ó : 0.00356488
-frequency for  ô : 0.00107167
-frequency for  õ : 0.00107272
-frequency for  ö : 0.000376136
-frequency for  ÷ : 0.0056662
-frequency for  ø : 0.000756474
-frequency for  ù : 6.82928e-05
-frequency for  û : 0
-frequency for  ü : 0
-frequency for  ý : 0.00264661
-frequency for  þ : 2.10132e-05
-frequency for  ÿ : 0.0011116
-frequency for à  : 0.0160373
-frequency for àà : 8.40527e-06
-frequency for àá : 0.000598875
-frequency for àâ : 0.00318455
-frequency for àã : 0.000775386
-frequency for àä : 0.00186702
-frequency for àå : 0.00094139
-frequency for àæ : 0.0012692
-frequency for àç : 0.00388323
-frequency for àè : 9.45593e-05
-frequency for àé : 0.000522177
-frequency for àê : 0.00372038
-frequency for àë : 0.00880977
-frequency for àì : 0.002717
-frequency for àí : 0.00436759
-frequency for àî : 6.30395e-06
-frequency for àï : 0.00105276
-frequency for àð : 0.00288826
-frequency for àñ : 0.00339153
-frequency for àò : 0.00437494
-frequency for àó : 0.000123978
-frequency for àô : 0.000484354
-frequency for àõ : 0.00100443
-frequency for àö : 6.09382e-05
-frequency for à÷ : 0.000783791
-frequency for àø : 0.00110739
-frequency for àù : 0.000250057
-frequency for àû : 0
-frequency for àü : 0
-frequency for àý : 0
-frequency for àþ : 0.000685029
-frequency for àÿ : 0.00215175
-frequency for á  : 0.000300488
-frequency for áà : 0.00079745
-frequency for áá : 5.25329e-06
-frequency for áâ : 9.87619e-05
-frequency for áã : 1.15572e-05
-frequency for áä : 2.31145e-05
-frequency for áå : 0.00214965
-frequency for áæ : 8.40527e-06
-frequency for áç : 0
-frequency for áè : 0.000731258
-frequency for áé : 0
-frequency for áê : 0.000162852
-frequency for áë : 0.000743866
-frequency for áì : 3.36211e-05
-frequency for áí : 0.000293134
-frequency for áî : 0.00203407
-frequency for áï : 0
-frequency for áð : 0.00110634
-frequency for áñ : 7.35461e-05
-frequency for áò : 5.25329e-06
-frequency for áó : 0.000926681
-frequency for áô : 0
-frequency for áõ : 7.87994e-05
-frequency for áö : 1.05066e-06
-frequency for á÷ : 2.20638e-05
-frequency for áø : 5.25329e-06
-frequency for áù : 0.000160751
-frequency for áû : 0.00398095
-frequency for áü : 3.04691e-05
-frequency for áý : 0
-frequency for áþ : 0
-frequency for áÿ : 0.000447581
-frequency for â  : 0.00660129
-frequency for âà : 0.00541614
-frequency for âá : 1.36586e-05
-frequency for ââ : 3.78237e-05
-frequency for âã : 4.83303e-05
-frequency for âä : 0.00035092
-frequency for âå : 0.00426252
-frequency for âæ : 1.05066e-06
-frequency for âç : 0.000512721
-frequency for âè : 0.00306267
-frequency for âé : 1.05066e-06
-frequency for âê : 0.000152345
-frequency for âë : 0.000966606
-frequency for âì : 0.000134484
-frequency for âí : 0.000935086
-frequency for âî : 0.00744917
-frequency for âï : 0.000240601
-frequency for âð : 0.000675573
-frequency for âñ : 0.00306897
-frequency for âò : 0.000201726
-frequency for âó : 0.000835274
-frequency for âô : 0
-frequency for âõ : 3.78237e-05
-frequency for âö : 1.57599e-05
-frequency for â÷ : 4.09757e-05
-frequency for âø : 0.00131648
-frequency for âù : 2.10132e-06
-frequency for âû : 0.00255835
-frequency for âü : 0.000162852
-frequency for âý : 0
-frequency for âþ : 1.05066e-06
-frequency for âÿ : 0.000242702
-frequency for ã  : 0.000816362
-frequency for ãà : 0.00097291
-frequency for ãá : 0
-frequency for ãâ : 3.88744e-05
-frequency for ãã : 5.25329e-06
-frequency for ãä : 0.00113891
-frequency for ãå : 0.000529532
-frequency for ãæ : 3.15198e-06
-frequency for ãç : 1.05066e-06
-frequency for ãè : 0.000679776
-frequency for ãé : 0
-frequency for ãê : 7.77487e-05
-frequency for ãë : 0.00135115
-frequency for ãì : 2.10132e-06
-frequency for ãí : 0.000257411
-frequency for ãî : 0.00878035
-frequency for ãï : 0
-frequency for ãð : 0.00107167
-frequency for ãñ : 9.45593e-05
-frequency for ãò : 3.15198e-06
-frequency for ãó : 0.000577862
-frequency for ãô : 0
-frequency for ãõ : 0
-frequency for ãö : 3.15198e-06
-frequency for ã÷ : 1.57599e-05
-frequency for ãø : 3.15198e-06
-frequency for ãù : 0
-frequency for ãû : 0
-frequency for ãü : 0
-frequency for ãý : 0
-frequency for ãþ : 0
-frequency for ãÿ : 0
-frequency for ä  : 0.00118304
-frequency for äà : 0.00440436
-frequency for äá : 2.83678e-05
-frequency for äâ : 0.00102544
-frequency for äã : 6.30395e-06
-frequency for ää : 2.10132e-05
-frequency for äå : 0.0044695
-frequency for äæ : 1.99625e-05
-frequency for äç : 2.10132e-06
-frequency for äè : 0.00250477
-frequency for äé : 0
-frequency for äê : 0.000192271
-frequency for äë : 0.000820564
-frequency for äì : 9.77112e-05
-frequency for äí : 0.00179242
-frequency for äî : 0.00365734
-frequency for äï : 0.00011242
-frequency for äð : 0.00155182
-frequency for äñ : 0.00039925
-frequency for äò : 0.000182815
-frequency for äó : 0.00159805
-frequency for äô : 9.45593e-06
-frequency for äõ : 4.51783e-05
-frequency for äö : 9.66606e-05
-frequency for ä÷ : 3.57224e-05
-frequency for äø : 0.000144991
-frequency for äù : 0
-frequency for äû : 0.000589419
-frequency for äü : 0.000354072
-frequency for äý : 0
-frequency for äþ : 0.000125028
-frequency for äÿ : 0.00035092
-frequency for å  : 0.0168578
-frequency for åà : 3.15198e-05
-frequency for åá : 0.00104225
-frequency for åâ : 0.001514
-frequency for åã : 0.00339468
-frequency for åä : 0.00253524
-frequency for åå : 0.00148668
-frequency for åæ : 0.00105066
-frequency for åç : 0.00117043
-frequency for åè : 0.000177561
-frequency for åé : 0.00212653
-frequency for åê : 0.00098972
-frequency for åë : 0.00608752
-frequency for åì : 0.00369832
-frequency for åí : 0.00766771
-frequency for åî : 0.000546342
-frequency for åï : 0.000956099
-frequency for åð : 0.00670845
-frequency for åñ : 0.00360796
-frequency for åò : 0.00349764
-frequency for åó : 8.6154e-05
-frequency for åô : 9.45593e-06
-frequency for åõ : 0.000898313
-frequency for åö : 0.000187017
-frequency for å÷ : 0.000849983
-frequency for åø : 0.000614635
-frequency for åù : 0.000586267
-frequency for åû : 0
-frequency for åü : 0
-frequency for åý : 0
-frequency for åþ : 0.000328856
-frequency for åÿ : 0.000282627
-frequency for æ  : 0.000177561
-frequency for æà : 0.00143625
-frequency for æá : 4.20263e-05
-frequency for æâ : 0
-frequency for æã : 8.40527e-06
-frequency for æä : 0.000740714
-frequency for æå : 0.00369517
-frequency for ææ : 2.10132e-05
-frequency for æç : 0
-frequency for æè : 0.00152766
-frequency for æé : 0
-frequency for æê : 5.77862e-05
-frequency for æë : 1.05066e-06
-frequency for æì : 8.40527e-06
-frequency for æí : 0.00127865
-frequency for æî : 3.78237e-05
-frequency for æï : 0
-frequency for æð : 3.15198e-06
-frequency for æñ : 3.25704e-05
-frequency for æò : 0
-frequency for æó : 0.000130282
-frequency for æô : 0
-frequency for æõ : 0
-frequency for æö : 0
-frequency for æ÷ : 1.99625e-05
-frequency for æø : 0
-frequency for æù : 0
-frequency for æû : 0
-frequency for æü : 4.3077e-05
-frequency for æý : 0
-frequency for æþ : 2.31145e-05
-frequency for æÿ : 0
-frequency for ç  : 0.00137426
-frequency for çà : 0.00501479
-frequency for çá : 0.000215385
-frequency for çâ : 0.000770133
-frequency for çã : 0.00035092
-frequency for çä : 0.000608331
-frequency for çå : 0.000237449
-frequency for çæ : 0.00014394
-frequency for çç : 5.35836e-05
-frequency for çè : 0.0003982
-frequency for çé : 0
-frequency for çê : 0.000131332
-frequency for çë : 0.000193321
-frequency for çì : 0.000307843
-frequency for çí : 0.00159805
-frequency for çî : 0.000895161
-frequency for çï : 1.26079e-05
-frequency for çð : 0.00019122
-frequency for çñ : 0.000204878
-frequency for çò : 1.57599e-05
-frequency for çó : 0.000229044
-frequency for çô : 0
-frequency for çõ : 0
-frequency for çö : 2.10132e-06
-frequency for ç÷ : 1.68105e-05
-frequency for çø : 1.15572e-05
-frequency for çù : 0
-frequency for çû : 0.000620939
-frequency for çü : 0.000284728
-frequency for çý : 0
-frequency for çþ : 2.62665e-05
-frequency for çÿ : 0.000425517
-frequency for è  : 0.0198942
-frequency for èà : 9.87619e-05
-frequency for èá : 0.000401352
-frequency for èâ : 0.00238079
-frequency for èã : 0.000504316
-frequency for èä : 0.00138792
-frequency for èå : 0.00285359
-frequency for èæ : 0.000396098
-frequency for èç : 0.00210552
-frequency for èè : 0.000958201
-frequency for èé : 0.00117569
-frequency for èê : 0.00193847
-frequency for èë : 0.0043844
-frequency for èì : 0.00291243
-frequency for èí : 0.00301224
-frequency for èî : 0.000118724
-frequency for èï : 0.000200676
-frequency for èð : 0.000412909
-frequency for èñ : 0.00280841
-frequency for èò : 0.003028
-frequency for èó : 2.10132e-06
-frequency for èô : 1.89119e-05
-frequency for èõ : 0.00181764
-frequency for èö : 0.0012713
-frequency for è÷ : 0.00117569
-frequency for èø : 0.00036668
-frequency for èù : 0.00017546
-frequency for èû : 0
-frequency for èü : 0
-frequency for èý : 1.05066e-06
-frequency for èþ : 0.000353021
-frequency for èÿ : 0.00207505
-frequency for é  : 0.00664331
-frequency for éà : 0
-frequency for éá : 2.10132e-06
-frequency for éâ : 0
-frequency for éã : 1.05066e-06
-frequency for éä : 0.000153396
-frequency for éå : 0
-frequency for éæ : 0
-frequency for éç : 0
-frequency for éè : 0
-frequency for éé : 0
-frequency for éê : 3.57224e-05
-frequency for éë : 4.20263e-06
-frequency for éì : 4.41277e-05
-frequency for éí : 0.000389794
-frequency for éî : 1.36586e-05
-frequency for éï : 1.05066e-06
-frequency for éð : 2.10132e-06
-frequency for éñ : 0.00083002
-frequency for éò : 0.000246905
-frequency for éó : 0
-frequency for éô : 0
-frequency for éõ : 2.10132e-06
-frequency for éö : 2.20638e-05
-frequency for é÷ : 5.98875e-05
-frequency for éø : 0.000129231
-frequency for éù : 0
-frequency for éû : 0
-frequency for éü : 0
-frequency for éý : 0
-frequency for éþ : 0
-frequency for éÿ : 0
-frequency for ê  : 0.00430665
-frequency for êà : 0.00706568
-frequency for êá : 0
-frequency for êâ : 0.000565254
-frequency for êã : 1.05066e-06
-frequency for êä : 0
-frequency for êå : 0.000341464
-frequency for êæ : 1.36586e-05
-frequency for êç : 3.15198e-06
-frequency for êè : 0.00248586
-frequency for êé : 0
-frequency for êê : 1.15572e-05
-frequency for êë : 0.000374034
-frequency for êì : 6.30395e-06
-frequency for êí : 0.00095715
-frequency for êî : 0.00798185
-frequency for êï : 0
-frequency for êð : 0.00152766
-frequency for êñ : 8.51033e-05
-frequency for êò : 0.000488556
-frequency for êó : 0.00154237
-frequency for êô : 1.05066e-06
-frequency for êõ : 0
-frequency for êö : 1.15572e-05
-frequency for ê÷ : 4.20263e-06
-frequency for êø : 1.05066e-05
-frequency for êù : 0
-frequency for êû : 0
-frequency for êü : 1.05066e-06
-frequency for êý : 0
-frequency for êþ : 2.10132e-06
-frequency for êÿ : 0
-frequency for ë  : 0.00708039
-frequency for ëà : 0.0061348
-frequency for ëá : 2.94184e-05
-frequency for ëâ : 2.10132e-06
-frequency for ëã : 0.000113471
-frequency for ëä : 0.00038349
-frequency for ëå : 0.00436969
-frequency for ëæ : 0.000371933
-frequency for ëç : 5.25329e-06
-frequency for ëè : 0.00666643
-frequency for ëé : 0
-frequency for ëê : 0.000455986
-frequency for ëë : 8.82553e-05
-frequency for ëì : 8.40527e-06
-frequency for ëí : 0.000279475
-frequency for ëî : 0.0062157
-frequency for ëï : 0.000202777
-frequency for ëð : 1.05066e-06
-frequency for ëñ : 0.00117884
-frequency for ëò : 2.94184e-05
-frequency for ëó : 0.00109374
-frequency for ëô : 4.20263e-06
-frequency for ëõ : 1.36586e-05
-frequency for ëö : 1.05066e-06
-frequency for ë÷ : 0.000195422
-frequency for ëø : 9.45593e-06
-frequency for ëù : 3.15198e-06
-frequency for ëû : 0.000916174
-frequency for ëü : 0.00369412
-frequency for ëý : 0
-frequency for ëþ : 0.00104225
-frequency for ëÿ : 0.00179347
-frequency for ì  : 0.00730838
-frequency for ìà : 0.00251843
-frequency for ìá : 4.09757e-05
-frequency for ìâ : 0
-frequency for ìã : 5.77862e-05
-frequency for ìä : 2.10132e-06
-frequency for ìå : 0.00273381
-frequency for ìæ : 0
-frequency for ìç : 3.15198e-06
-frequency for ìè : 0.00302905
-frequency for ìé : 0
-frequency for ìê : 6.61915e-05
-frequency for ìë : 0.000137636
-frequency for ìì : 1.57599e-05
-frequency for ìí : 0.000902516
-frequency for ìî : 0.00337892
-frequency for ìï : 0.000146042
-frequency for ìð : 3.78237e-05
-frequency for ìñ : 9.87619e-05
-frequency for ìò : 4.9381e-05
-frequency for ìó : 0.00226312
-frequency for ìô : 2.10132e-06
-frequency for ìõ : 0
-frequency for ìö : 1.99625e-05
-frequency for ì÷ : 2.20638e-05
-frequency for ìø : 1.26079e-05
-frequency for ìù : 3.15198e-06
-frequency for ìû : 0.000826868
-frequency for ìü : 2.94184e-05
-frequency for ìý : 1.05066e-06
-frequency for ìþ : 3.25704e-05
-frequency for ìÿ : 0.000452834
-frequency for í  : 0.00419318
-frequency for íà : 0.010017
-frequency for íá : 4.20263e-06
-frequency for íâ : 3.78237e-05
-frequency for íã : 9.14073e-05
-frequency for íä : 0.000488556
-frequency for íå : 0.00853765
-frequency for íæ : 9.45593e-06
-frequency for íç : 1.05066e-05
-frequency for íè : 0.00823191
-frequency for íé : 0
-frequency for íê : 0.000198574
-frequency for íë : 2.10132e-06
-frequency for íì : 0
-frequency for íí : 0.00269809
-frequency for íî : 0.0086984
-frequency for íï : 2.10132e-06
-frequency for íð : 3.46717e-05
-frequency for íñ : 0.000481202
-frequency for íò : 0.000376136
-frequency for íó : 0.00209396
-frequency for íô : 7.35461e-06
-frequency for íõ : 1.05066e-06
-frequency for íö : 0.000839476
-frequency for í÷ : 0.000125028
-frequency for íø : 1.26079e-05
-frequency for íù : 0.000116623
-frequency for íû : 0.00332323
-frequency for íü : 0.000936137
-frequency for íý : 0
-frequency for íþ : 0.000130282
-frequency for íÿ : 0.0019868
-frequency for î  : 0.0220722
-frequency for îà : 2.10132e-06
-frequency for îá : 0.00320556
-frequency for îâ : 0.0075721
-frequency for îã : 0.00495701
-frequency for îä : 0.00480991
-frequency for îå : 0.00252999
-frequency for îæ : 0.00177141
-frequency for îç : 0.0010307
-frequency for îè : 0.000806906
-frequency for îé : 0.0031982
-frequency for îê : 0.00155497
-frequency for îë : 0.00675363
-frequency for îì : 0.00467648
-frequency for îí : 0.00632076
-frequency for îî : 0.000229044
-frequency for îï : 0.00134694
-frequency for îð : 0.00621149
-frequency for îñ : 0.00684294
-frequency for îò : 0.00707408
-frequency for îó : 5.67356e-05
-frequency for îô : 0.00036773
-frequency for îõ : 0.00046229
-frequency for îö : 4.51783e-05
-frequency for î÷ : 0.00120195
-frequency for îø : 0.000991822
-frequency for îù : 0.000156548
-frequency for îû : 0
-frequency for îü : 0
-frequency for îý : 1.57599e-05
-frequency for îþ : 0.00074912
-frequency for îÿ : 0.000689232
-frequency for ï  : 5.14823e-05
-frequency for ïà : 0.00118094
-frequency for ïá : 0
-frequency for ïâ : 0
-frequency for ïã : 0
-frequency for ïä : 0
-frequency for ïå : 0.00241862
-frequency for ïæ : 0
-frequency for ïç : 0
-frequency for ïè : 0.000682928
-frequency for ïé : 0
-frequency for ïê : 6.19889e-05
-frequency for ïë : 0.000890958
-frequency for ïì : 0
-frequency for ïí : 6.40902e-05
-frequency for ïî : 0.00881923
-frequency for ïï : 3.78237e-05
-frequency for ïð : 0.00604339
-frequency for ïñ : 1.05066e-06
-frequency for ïò : 4.41277e-05
-frequency for ïó : 0.000706043
-frequency for ïô : 1.05066e-06
-frequency for ïõ : 0
-frequency for ïö : 1.99625e-05
-frequency for ï÷ : 0.000180713
-frequency for ïø : 1.05066e-06
-frequency for ïù : 0
-frequency for ïû : 0.000332008
-frequency for ïü : 0.00110109
-frequency for ïý : 0
-frequency for ïþ : 0
-frequency for ïÿ : 0.000297336
-frequency for ð  : 0.00146147
-frequency for ðà : 0.00857863
-frequency for ðá : 0.000126079
-frequency for ðâ : 0.000306792
-frequency for ðã : 0.000249006
-frequency for ðä : 0.000308894
-frequency for ðå : 0.00573134
-frequency for ðæ : 0.000277374
-frequency for ðç : 2.73171e-05
-frequency for ðè : 0.00464181
-frequency for ðé : 0
-frequency for ðê : 0.000196473
-frequency for ðë : 9.56099e-05
-frequency for ðì : 0.000376136
-frequency for ðí : 0.000615686
-frequency for ðî : 0.00650673
-frequency for ðï : 9.77112e-05
-frequency for ðð : 3.15198e-06
-frequency for ðñ : 0.000200676
-frequency for ðò : 0.000596774
-frequency for ðó : 0.00298492
-frequency for ðô : 1.36586e-05
-frequency for ðõ : 8.51033e-05
-frequency for ðö : 5.35836e-05
-frequency for ð÷ : 4.83303e-05
-frequency for ðø : 0.000306792
-frequency for ðù : 3.88744e-05
-frequency for ðû : 0.0016033
-frequency for ðü : 0.000874148
-frequency for ðý : 0
-frequency for ðþ : 7.77487e-05
-frequency for ðÿ : 0.00105696
-frequency for ñ  : 0.00331378
-frequency for ñà : 0.00134484
-frequency for ñá : 5.14823e-05
-frequency for ñâ : 0.00171888
-frequency for ñã : 2.94184e-05
-frequency for ñä : 0.000304691
-frequency for ñå : 0.00275798
-frequency for ñæ : 2.52158e-05
-frequency for ñç : 3.15198e-05
-frequency for ñè : 0.00138687
-frequency for ñé : 0
-frequency for ñê : 0.00500954
-frequency for ñë : 0.0025447
-frequency for ñì : 0.000961353
-frequency for ñí : 0.00078169
-frequency for ñî : 0.00294815
-frequency for ñï : 0.00174304
-frequency for ñð : 0.000436023
-frequency for ññ : 0.00101389
-frequency for ñò : 0.0109899
-frequency for ñó : 0.000658763
-frequency for ñô : 8.40527e-06
-frequency for ñõ : 0.000160751
-frequency for ñö : 2.73171e-05
-frequency for ñ÷ : 0.000300488
-frequency for ñø : 9.14073e-05
-frequency for ñù : 1.05066e-06
-frequency for ñû : 0.000306792
-frequency for ñü : 0.00281787
-frequency for ñý : 0
-frequency for ñþ : 0.000130282
-frequency for ñÿ : 0.00304376
-frequency for ò  : 0.00488556
-frequency for òà : 0.0052722
-frequency for òá : 3.46717e-05
-frequency for òâ : 0.00258462
-frequency for òã : 1.68105e-05
-frequency for òä : 0.000203828
-frequency for òå : 0.00426357
-frequency for òæ : 0
-frequency for òç : 5.25329e-06
-frequency for òè : 0.0034283
-frequency for òé : 0
-frequency for òê : 0.000380338
-frequency for òë : 0.000217486
-frequency for òì : 9.45593e-06
-frequency for òí : 0.000914073
-frequency for òî : 0.0146514
-frequency for òï : 6.61915e-05
-frequency for òð : 0.00267708
-frequency for òñ : 0.000870996
-frequency for òò : 0.000115572
-frequency for òó : 0.00148563
-frequency for òô : 4.20263e-06
-frequency for òõ : 1.26079e-05
-frequency for òö : 5.67356e-05
-frequency for ò÷ : 0.000202777
-frequency for òø : 0
-frequency for òù : 6.30395e-06
-frequency for òû : 0.00126604
-frequency for òü : 0.00516819
-frequency for òý : 0
-frequency for òþ : 3.25704e-05
-frequency for òÿ : 0.000587318
-frequency for ó  : 0.00558425
-frequency for óà : 5.25329e-06
-frequency for óá : 0.000603078
-frequency for óâ : 0.000889908
-frequency for óã : 0.00125974
-frequency for óä : 0.00159805
-frequency for óå : 0.000189119
-frequency for óæ : 0.0012734
-frequency for óç : 0.00120826
-frequency for óè : 4.20263e-06
-frequency for óé : 6.40902e-05
-frequency for óê : 0.000707093
-frequency for óë : 0.00110739
-frequency for óì : 0.000915124
-frequency for óí : 0.000296286
-frequency for óî : 7.35461e-06
-frequency for óï : 0.000690283
-frequency for óð : 0.00052638
-frequency for óñ : 0.00137741
-frequency for óò : 0.00155497
-frequency for óó : 3.15198e-06
-frequency for óô : 1.05066e-05
-frequency for óõ : 0.000301539
-frequency for óö : 1.05066e-05
-frequency for ó÷ : 0.000732309
-frequency for óø : 0.000665067
-frequency for óù : 0.000292083
-frequency for óû : 0
-frequency for óü : 0
-frequency for óý : 1.05066e-06
-frequency for óþ : 0.000928782
-frequency for óÿ : 6.93435e-05
-frequency for ô  : 0.000173359
-frequency for ôà : 0.000125028
-frequency for ôá : 0
-frequency for ôâ : 0
-frequency for ôã : 0
-frequency for ôä : 0
-frequency for ôå : 9.66606e-05
-frequency for ôæ : 0
-frequency for ôç : 0
-frequency for ôè : 0.000620939
-frequency for ôé : 0
-frequency for ôê : 0
-frequency for ôë : 9.45593e-05
-frequency for ôì : 1.05066e-06
-frequency for ôí : 0
-frequency for ôî : 7.77487e-05
-frequency for ôï : 2.10132e-06
-frequency for ôð : 0.000710245
-frequency for ôñ : 4.20263e-06
-frequency for ôò : 2.10132e-05
-frequency for ôó : 7.14448e-05
-frequency for ôô : 4.20263e-06
-frequency for ôõ : 0
-frequency for ôö : 0
-frequency for ô÷ : 1.05066e-06
-frequency for ôø : 0
-frequency for ôù : 0
-frequency for ôû : 5.25329e-06
-frequency for ôü : 6.30395e-06
-frequency for ôý : 0
-frequency for ôþ : 6.30395e-06
-frequency for ôÿ : 0
-frequency for õ  : 0.00370882
-frequency for õà : 0.000713397
-frequency for õá : 0
-frequency for õâ : 0.000113471
-frequency for õã : 2.10132e-06
-frequency for õä : 1.05066e-06
-frequency for õå : 3.04691e-05
-frequency for õæ : 0
-frequency for õç : 0
-frequency for õè : 0.000149194
-frequency for õé : 0
-frequency for õê : 0
-frequency for õë : 0.00011242
-frequency for õì : 5.88369e-05
-frequency for õí : 0.000114522
-frequency for õî : 0.00191745
-frequency for õï : 0
-frequency for õð : 9.87619e-05
-frequency for õñ : 6.61915e-05
-frequency for õò : 5.67356e-05
-frequency for õó : 0.000129231
-frequency for õô : 0
-frequency for õõ : 1.05066e-06
-frequency for õö : 0
-frequency for õ÷ : 0
-frequency for õø : 1.68105e-05
-frequency for õù : 0
-frequency for õû : 0
-frequency for õü : 0
-frequency for õý : 0
-frequency for õþ : 0
-frequency for õÿ : 0
-frequency for ö  : 0.000193321
-frequency for öà : 0.00049486
-frequency for öá : 0
-frequency for öâ : 2.73171e-05
-frequency for öã : 0
-frequency for öä : 0
-frequency for öå : 0.000979214
-frequency for öæ : 1.05066e-06
-frequency for öç : 0
-frequency for öè : 0.000277374
-frequency for öé : 0
-frequency for öê : 7.24954e-05
-frequency for öë : 1.05066e-06
-frequency for öì : 3.15198e-06
-frequency for öí : 0
-frequency for öî : 0.00031835
-frequency for öï : 0
-frequency for öð : 0
-frequency for öñ : 0
-frequency for öò : 1.05066e-06
-frequency for öó : 0.000711296
-frequency for öô : 0
-frequency for öõ : 0
-frequency for öö : 0
-frequency for ö÷ : 0
-frequency for öø : 0
-frequency for öù : 0
-frequency for öû : 0.000185967
-frequency for öü : 0
-frequency for öý : 0
-frequency for öþ : 0
-frequency for öÿ : 1.05066e-06
-frequency for ÷  : 0.000140788
-frequency for ÷à : 0.00193741
-frequency for ÷á : 0
-frequency for ÷â : 4.20263e-06
-frequency for ÷ã : 0
-frequency for ÷ä : 0
-frequency for ÷å : 0.00304166
-frequency for ÷æ : 0
-frequency for ÷ç : 0
-frequency for ÷è : 0.00146042
-frequency for ÷é : 0
-frequency for ÷ê : 0.000213284
-frequency for ÷ë : 1.47092e-05
-frequency for ÷ì : 3.15198e-06
-frequency for ÷í : 0.000476999
-frequency for ÷î : 7.14448e-05
-frequency for ÷ï : 0
-frequency for ÷ð : 2.31145e-05
-frequency for ÷ñ : 0
-frequency for ÷ò : 0.00380549
-frequency for ÷ó : 0.000633547
-frequency for ÷ô : 0
-frequency for ÷õ : 0
-frequency for ÷ö : 0
-frequency for ÷÷ : 0
-frequency for ÷ø : 8.51033e-05
-frequency for ÷ù : 0
-frequency for ÷û : 0
-frequency for ÷ü : 0.000187017
-frequency for ÷ý : 0
-frequency for ÷þ : 0
-frequency for ÷ÿ : 0
-frequency for ø  : 7.14448e-05
-frequency for øà : 0.00142364
-frequency for øá : 0
-frequency for øâ : 8.40527e-06
-frequency for øã : 0
-frequency for øä : 0
-frequency for øå : 0.00225471
-frequency for øæ : 0
-frequency for øç : 0
-frequency for øè : 0.0019206
-frequency for øé : 0
-frequency for øê : 0.000325704
-frequency for øë : 0.000404504
-frequency for øì : 8.40527e-06
-frequency for øí : 0.000418162
-frequency for øî : 0.000253209
-frequency for øï : 2.62665e-05
-frequency for øð : 2.10132e-06
-frequency for øñ : 1.05066e-06
-frequency for øò : 8.19514e-05
-frequency for øó : 0.000257411
-frequency for øô : 0
-frequency for øõ : 0
-frequency for øö : 0
-frequency for ø÷ : 0
-frequency for øø : 0
-frequency for øù : 0
-frequency for øû : 1.05066e-06
-frequency for øü : 0.000189119
-frequency for øý : 0
-frequency for øþ : 0
-frequency for øÿ : 0
-frequency for ù  : 1.36586e-05
-frequency for ùà : 0.00038349
-frequency for ùá : 0
-frequency for ùâ : 1.05066e-06
-frequency for ùã : 0
-frequency for ùä : 0
-frequency for ùå : 0.00121876
-frequency for ùæ : 0
-frequency for ùç : 0
-frequency for ùè : 0.000764879
-frequency for ùé : 0
-frequency for ùê : 0
-frequency for ùë : 0
-frequency for ùì : 0
-frequency for ùí : 2.83678e-05
-frequency for ùî : 0
-frequency for ùï : 0
-frequency for ùð : 4.20263e-06
-frequency for ùñ : 0
-frequency for ùò : 0
-frequency for ùó : 9.77112e-05
-frequency for ùô : 0
-frequency for ùõ : 0
-frequency for ùö : 0
-frequency for ù÷ : 0
-frequency for ùø : 0
-frequency for ùù : 0
-frequency for ùû : 0
-frequency for ùü : 1.05066e-05
-frequency for ùý : 0
-frequency for ùþ : 0
-frequency for ùÿ : 0
-frequency for û  : 0.00420684
-frequency for ûà : 0
-frequency for ûá : 0.000246905
-frequency for ûâ : 0.00115362
-frequency for ûã : 6.19889e-05
-frequency for ûä : 0.000105066
-frequency for ûå : 0.00130072
-frequency for ûæ : 1.78612e-05
-frequency for ûç : 4.6229e-05
-frequency for ûè : 2.73171e-05
-frequency for ûé : 0.0014331
-frequency for ûê : 0.000169156
-frequency for ûë : 0.00250372
-frequency for ûì : 0.00150034
-frequency for ûí : 0.000182815
-frequency for ûî : 0
-frequency for ûï : 9.77112e-05
-frequency for ûð : 0.000278425
-frequency for ûñ : 0.000818463
-frequency for ûò : 0.000703941
-frequency for ûó : 4.20263e-06
-frequency for ûô : 0
-frequency for ûõ : 0.00106011
-frequency for ûö : 1.15572e-05
-frequency for û÷ : 0.000140788
-frequency for ûø : 0.000442327
-frequency for ûù : 2.10132e-06
-frequency for ûû : 0
-frequency for ûü : 0
-frequency for ûý : 0
-frequency for ûþ : 0
-frequency for ûÿ : 1.05066e-06
-frequency for ü  : 0.00918486
-frequency for üà : 1.05066e-06
-frequency for üá : 7.77487e-05
-frequency for üâ : 1.05066e-05
-frequency for üã : 1.57599e-05
-frequency for üä : 3.15198e-05
-frequency for üå : 0.00150454
-frequency for üæ : 0
-frequency for üç : 0.000134484
-frequency for üè : 0.000137636
-frequency for üé : 0
-frequency for üê : 0.00104435
-frequency for üë : 0
-frequency for üì : 0.000229044
-frequency for üí : 0.00111685
-frequency for üî : 3.04691e-05
-frequency for üï : 1.05066e-06
-frequency for üð : 0
-frequency for üñ : 0.000779589
-frequency for üò : 6.19889e-05
-frequency for üó : 0
-frequency for üô : 0
-frequency for üõ : 1.05066e-06
-frequency for üö : 9.03566e-05
-frequency for ü÷ : 6.40902e-05
-frequency for üø : 0.000495911
-frequency for üù : 5.25329e-06
-frequency for üû : 0
-frequency for üü : 0
-frequency for üý : 0
-frequency for üþ : 0.000409757
-frequency for üÿ : 0.00046229
-frequency for ý  : 8.40527e-06
-frequency for ýà : 0
-frequency for ýá : 0
-frequency for ýâ : 0
-frequency for ýã : 5.25329e-06
-frequency for ýä : 2.10132e-06
-frequency for ýå : 0
-frequency for ýæ : 0
-frequency for ýç : 3.15198e-06
-frequency for ýè : 0
-frequency for ýé : 1.05066e-05
-frequency for ýê : 5.56849e-05
-frequency for ýë : 5.35836e-05
-frequency for ýì : 2.10132e-06
-frequency for ýí : 1.68105e-05
-frequency for ýî : 0
-frequency for ýï : 9.45593e-06
-frequency for ýð : 1.05066e-06
-frequency for ýñ : 3.57224e-05
-frequency for ýò : 0.00244909
-frequency for ýó : 0
-frequency for ýô : 3.15198e-06
-frequency for ýõ : 1.05066e-05
-frequency for ýö : 0
-frequency for ý÷ : 0
-frequency for ýø : 0
-frequency for ýù : 0
-frequency for ýû : 0
-frequency for ýü : 0
-frequency for ýý : 1.05066e-06
-frequency for ýþ : 0
-frequency for ýÿ : 0
-frequency for þ  : 0.00309104
-frequency for þà : 1.05066e-06
-frequency for þá : 0.000363528
-frequency for þâ : 0
-frequency for þã : 1.05066e-06
-frequency for þä : 0.000487506
-frequency for þå : 0
-frequency for þæ : 5.25329e-06
-frequency for þç : 8.40527e-06
-frequency for þè : 0
-frequency for þé : 0
-frequency for þê : 4.20263e-06
-frequency for þë : 2.62665e-05
-frequency for þì : 9.45593e-06
-frequency for þí : 1.26079e-05
-frequency for þî : 0
-frequency for þï : 0
-frequency for þð : 5.35836e-05
-frequency for þñ : 8.82553e-05
-frequency for þò : 0.000491708
-frequency for þó : 0
-frequency for þô : 0
-frequency for þõ : 1.05066e-05
-frequency for þö : 5.25329e-06
-frequency for þ÷ : 7.45968e-05
-frequency for þø : 2.73171e-05
-frequency for þù : 0.000441277
-frequency for þû : 0
-frequency for þü : 0
-frequency for þý : 0
-frequency for þþ : 3.46717e-05
-frequency for þÿ : 0
-frequency for ÿ  : 0.0103458
-frequency for ÿà : 0
-frequency for ÿá : 6.72421e-05
-frequency for ÿâ : 0.000315198
-frequency for ÿã : 7.35461e-05
-frequency for ÿä : 0.000592571
-frequency for ÿå : 0.000102965
-frequency for ÿæ : 0.000591521
-frequency for ÿç : 0.000514823
-frequency for ÿè : 1.15572e-05
-frequency for ÿé : 4.09757e-05
-frequency for ÿê : 0.000147092
-frequency for ÿë : 0.000922478
-frequency for ÿì : 0.000341464
-frequency for ÿí : 0.000567356
-frequency for ÿî : 0
-frequency for ÿï : 4.09757e-05
-frequency for ÿð : 6.30395e-05
-frequency for ÿñ : 0.000702891
-frequency for ÿò : 0.00137321
-frequency for ÿó : 8.40527e-06
-frequency for ÿô : 0
-frequency for ÿõ : 0.000213284
-frequency for ÿö : 3.88744e-05
-frequency for ÿ÷ : 0.000117674
-frequency for ÿø : 2.31145e-05
-frequency for ÿù : 0.000213284
-frequency for ÿû : 0
-frequency for ÿü : 0
-frequency for ÿý : 1.05066e-06
-frequency for ÿþ : 9.77112e-05
-frequency for ÿÿ : 0.000160751
+               monograms with ' '      monograms without ' '
+frequency for   : 0.1612811717
+frequency for à : 0.0671622268               0.0800772662
+frequency for á : 0.0142322058               0.0169690046
+frequency for â : 0.0393460708               0.0469121698
+frequency for ã : 0.0164238772               0.0195821260
+frequency for ä : 0.0258209575               0.0307862289
+frequency for å : 0.0689903707               0.0822569553
+frequency for æ : 0.0092846599               0.0110700645
+frequency for ç : 0.0143341196               0.0170905160
+frequency for è : 0.0582295371               0.0694268545
+frequency for é : 0.0085807194               0.0102307589
+frequency for ê : 0.0277877882               0.0331312737
+frequency for ë : 0.0423835215               0.0505337106
+frequency for ì : 0.0241924384               0.0288445518
+frequency for í : 0.0536854437               0.0640089493
+frequency for î : 0.0977027375               0.1164906004
+frequency for ï : 0.0229358521               0.0273463288
+frequency for ð : 0.0375410413               0.0447600400
+frequency for ñ : 0.0449397711               0.0535815172
+frequency for ò : 0.0494197744               0.0589230081
+frequency for ó : 0.0228759646               0.0272749252
+frequency for ô : 0.0020214649               0.0024101849
+frequency for õ : 0.0072905120               0.0086924496
+frequency for ö : 0.0032675447               0.0038958810
+frequency for ÷ : 0.0120983205               0.0144247813
+frequency for ø : 0.0076477356               0.0091183659
+frequency for ù : 0.0025226285               0.0030077204
+frequency for û : 0.0165163351               0.0196923632
+frequency for ü : 0.0158901433               0.0189457571
+frequency for ý : 0.0026676193               0.0031805922
+frequency for þ : 0.0052375274               0.0062446839
+frequency for ÿ : 0.0176899195               0.0210903707
+
+
+                                     à                    á                    â                    ã                    ä                    å                    æ                    ç                    è                    é                    ê                    ë                    ì                    í                    î                    ï                    ð                    ñ                    ò                    ó                    ô                    õ                    ö                    ÷                    ø                    ù                    û                    ü                    ý                    þ                    ÿ         
+     0.0000000000         0.0017819169         0.0070320577         0.0149844923         0.0043822968         0.0076750607         0.0039620334         0.0020130618         0.0035732897         0.0113607709         0.0000084053         0.0096545014         0.0026749767         0.0051104032         0.0153291083         0.0120584082         0.0158491843         0.0041963303         0.0157808915         0.0074985501         0.0035648845         0.0010716717         0.0010727224         0.0003761358         0.0056662016         0.0007564742         0.0000682928         0.0000000000         0.0000000000         0.0026466089         0.0000210132         0.0011115967     
+à    0.0160372521         0.0000084053         0.0005988754         0.0031845461         0.0007753860         0.0018670202         0.0009413901         0.0012691955         0.0038832340         0.0000945593         0.0005221773         0.0037203819         0.0088097720         0.0027170030         0.0043675876         0.0000063040         0.0010527599         0.0028882604         0.0033915258         0.0043749422         0.0001239777         0.0004843536         0.0010044296         0.0000609382         0.0007837913         0.0011073941         0.0002500567         0.0000000000         0.0000000000         0.0000000000         0.0006850294         0.0021517487     
+á    0.0003004883         0.0007974498         0.0000052533         0.0000987619         0.0000115572         0.0000231145         0.0021496474         0.0000084053         0.0000000000         0.0007312584         0.0000000000         0.0001628521         0.0007438663         0.0000336211         0.0002931337         0.0020340750         0.0000000000         0.0011063435         0.0000735461         0.0000052533         0.0009266808         0.0000000000         0.0000787994         0.0000010507         0.0000220638         0.0000052533         0.0001607508         0.0039809453         0.0000304691         0.0000000000         0.0000000000         0.0004475805     
+â    0.0066012877         0.0054161448         0.0000136586         0.0000378237         0.0000483303         0.0003509200         0.0042625217         0.0000010507         0.0005127214         0.0030626697         0.0000010507         0.0001523455         0.0009666059         0.0001344843         0.0009350861         0.0074491691         0.0002406008         0.0006755734         0.0030689736         0.0002017264         0.0008352735         0.0000000000         0.0000378237         0.0000157599         0.0000409757         0.0013164752         0.0000021013         0.0025583536         0.0001628521         0.0000000000         0.0000010507         0.0002427021     
+ã    0.0008163617         0.0009729098         0.0000000000         0.0000388744         0.0000052533         0.0011389139         0.0005295319         0.0000031520         0.0000010507         0.0006797761         0.0000000000         0.0000777487         0.0013511469         0.0000021013         0.0002574113         0.0087803535         0.0000000000         0.0010716717         0.0000945593         0.0000031520         0.0005778622         0.0000000000         0.0000000000         0.0000031520         0.0000157599         0.0000031520         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+ä    0.0011830415         0.0044043607         0.0000283678         0.0010254427         0.0000063040         0.0000210132         0.0044695015         0.0000199625         0.0000021013         0.0025047700         0.0000000000         0.0001922705         0.0008205643         0.0000977112         0.0017924235         0.0036573424         0.0001124205         0.0015518227         0.0003992503         0.0001828146         0.0015980517         0.0000094559         0.0000451783         0.0000966606         0.0000357224         0.0001449909         0.0000000000         0.0005894194         0.0003540719         0.0000000000         0.0001250284         0.0003509200     
+å    0.0168578165         0.0000315198         0.0010422533         0.0015139990         0.0033946778         0.0025352391         0.0014866819         0.0010506586         0.0011704336         0.0001775613         0.0021265329         0.0009897204         0.0060875157         0.0036983181         0.0076677061         0.0005463424         0.0009560993         0.0067084549         0.0036079615         0.0034976423         0.0000861540         0.0000094559         0.0008983131         0.0001870172         0.0008499828         0.0006146353         0.0005862675         0.0000000000         0.0000000000         0.0000000000         0.0003288561         0.0002826272     
+æ    0.0001775613         0.0014362502         0.0000420263         0.0000000000         0.0000084053         0.0007407143         0.0036951661         0.0000210132         0.0000000000         0.0015276575         0.0000000000         0.0000577862         0.0000010507         0.0000084053         0.0012786515         0.0000378237         0.0000000000         0.0000031520         0.0000325704         0.0000000000         0.0001302817         0.0000000000         0.0000000000         0.0000000000         0.0000199625         0.0000000000         0.0000000000         0.0000000000         0.0000430770         0.0000000000         0.0000231145         0.0000000000     
+ç    0.0013742614         0.0050147933         0.0002153850         0.0007701327         0.0003509200         0.0006083313         0.0002374488         0.0001439402         0.0000535836         0.0003981996         0.0000000000         0.0001313323         0.0001933212         0.0003078430         0.0015980517         0.0008951611         0.0000126079         0.0001912199         0.0002048784         0.0000157599         0.0002290436         0.0000000000         0.0000000000         0.0000021013         0.0000168105         0.0000115572         0.0000000000         0.0006209392         0.0002847285         0.0000000000         0.0000262665         0.0004255167     
+è    0.0198942197         0.0000987619         0.0004013516         0.0023807923         0.0005043161         0.0013879199         0.0028535886         0.0003960983         0.0021055197         0.0009582006         0.0011756869         0.0019384650         0.0043843981         0.0029124255         0.0030122381         0.0001187244         0.0002006758         0.0004129088         0.0028084103         0.0030279979         0.0000021013         0.0000189119         0.0018176393         0.0012712968         0.0011756869         0.0003666798         0.0001754600         0.0000000000         0.0000000000         0.0000010507         0.0003530213         0.0020750506     
+é    0.0066433140         0.0000000000         0.0000021013         0.0000000000         0.0000010507         0.0001533961         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000357224         0.0000042026         0.0000441277         0.0003897943         0.0000136586         0.0000010507         0.0000021013         0.0008300203         0.0002469048         0.0000000000         0.0000000000         0.0000021013         0.0000220638         0.0000598875         0.0001292310         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+ê    0.0043066494         0.0070656788         0.0000000000         0.0005652543         0.0000010507         0.0000000000         0.0003414640         0.0000136586         0.0000031520         0.0024858581         0.0000000000         0.0000115572         0.0003740344         0.0000063040         0.0009571499         0.0079818530         0.0000000000         0.0015276575         0.0000851033         0.0004885562         0.0015423668         0.0000010507         0.0000000000         0.0000115572         0.0000042026         0.0000105066         0.0000000000         0.0000000000         0.0000010507         0.0000000000         0.0000021013         0.0000000000     
+ë    0.0070803880         0.0061347953         0.0000294184         0.0000021013         0.0001134711         0.0003834904         0.0043696889         0.0003719331         0.0000052533         0.0066664285         0.0000000000         0.0004559858         0.0000882553         0.0000084053         0.0002794752         0.0062156960         0.0002027771         0.0000010507         0.0011788389         0.0000294184         0.0010937356         0.0000042026         0.0000136586         0.0000010507         0.0001954225         0.0000094559         0.0000031520         0.0009161743         0.0036941155         0.0000000000         0.0010422533         0.0017934741     
+ì    0.0073083809         0.0025184286         0.0000409757         0.0000000000         0.0000577862         0.0000021013         0.0027338136         0.0000000000         0.0000031520         0.0030290486         0.0000000000         0.0000661915         0.0001376363         0.0000157599         0.0009025157         0.0033789179         0.0001460415         0.0000378237         0.0000987619         0.0000493810         0.0022631185         0.0000021013         0.0000000000         0.0000199625         0.0000220638         0.0000126079         0.0000031520         0.0008268683         0.0000294184         0.0000010507         0.0000325704         0.0004528338     
+í    0.0041931783         0.0100169786         0.0000042026         0.0000378237         0.0000914073         0.0004885562         0.0085376514         0.0000094559         0.0000105066         0.0082319098         0.0000000000         0.0001985745         0.0000021013         0.0000000000         0.0026980912         0.0086984022         0.0000021013         0.0000346717         0.0004812016         0.0003761358         0.0020939625         0.0000073546         0.0000010507         0.0008394762         0.0001250284         0.0000126079         0.0001166231         0.0033232330         0.0009361368         0.0000000000         0.0001302817         0.0019867953     
+î    0.0220722349         0.0000021013         0.0032055592         0.0075720962         0.0049570071         0.0048099149         0.0025299858         0.0017714103         0.0010306960         0.0008069058         0.0031982046         0.0015549747         0.0067536332         0.0046764812         0.0063207619         0.0002290436         0.0013469443         0.0062114934         0.0068429392         0.0070740840         0.0000567356         0.0003677305         0.0004622898         0.0000451783         0.0012019534         0.0009918217         0.0001565481         0.0000000000         0.0000000000         0.0000157599         0.0007491195         0.0006892320     
+ï    0.0000514823         0.0011809402         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0024186160         0.0000000000         0.0000000000         0.0006829281         0.0000000000         0.0000619889         0.0008909585         0.0000000000         0.0000640902         0.0088192279         0.0000378237         0.0060433880         0.0000010507         0.0000441277         0.0007060425         0.0000010507         0.0000000000         0.0000199625         0.0001807133         0.0000010507         0.0000000000         0.0003320081         0.0011010902         0.0000000000         0.0000000000         0.0002973364     
+ð    0.0014614660         0.0085786271         0.0001260790         0.0003067923         0.0002490061         0.0003088936         0.0057313424         0.0002773739         0.0000273171         0.0046418095         0.0000000000         0.0001964731         0.0000956099         0.0003761358         0.0006156859         0.0065067284         0.0000977112         0.0000031520         0.0002006758         0.0005967741         0.0029849209         0.0000136586         0.0000851033         0.0000535836         0.0000483303         0.0003067923         0.0000388744         0.0016033050         0.0008741479         0.0000000000         0.0000777487         0.0010569625     
+ñ    0.0033137771         0.0013448429         0.0000514823         0.0017188774         0.0000294184         0.0003046910         0.0027579787         0.0000252158         0.0000315198         0.0013868693         0.0000000000         0.0050095400         0.0025446950         0.0009613526         0.0007816900         0.0029481479         0.0017430425         0.0004360233         0.0010138855         0.0109898885         0.0006587629         0.0000084053         0.0001607508         0.0000273171         0.0003004883         0.0000914073         0.0000010507         0.0003067923         0.0028178662         0.0000000000         0.0001302817         0.0030437578     
+ò    0.0048855623         0.0052722046         0.0000346717         0.0025846200         0.0000168105         0.0002038278         0.0042635724         0.0000000000         0.0000052533         0.0034282989         0.0000000000         0.0003803384         0.0002174863         0.0000094559         0.0009140729         0.0146514335         0.0000661915         0.0026770780         0.0008709959         0.0001155724         0.0014856312         0.0000042026         0.0000126079         0.0000567356         0.0002027771         0.0000000000         0.0000063040         0.0012660436         0.0051681894         0.0000000000         0.0000325704         0.0005873181     
+ó    0.0055842502         0.0000052533         0.0006030780         0.0008899078         0.0012597396         0.0015980517         0.0001891185         0.0012733982         0.0012082573         0.0000042026         0.0000640902         0.0007070932         0.0011073941         0.0009151236         0.0002962857         0.0000073546         0.0006902827         0.0005263799         0.0013774134         0.0015549747         0.0000031520         0.0000105066         0.0003015390         0.0000105066         0.0007323090         0.0006650669         0.0002920831         0.0000000000         0.0000000000         0.0000010507         0.0009287822         0.0000693435     
+ô    0.0001733587         0.0001250284         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000966606         0.0000000000         0.0000000000         0.0006209392         0.0000000000         0.0000000000         0.0000945593         0.0000010507         0.0000000000         0.0000777487         0.0000021013         0.0007102452         0.0000042026         0.0000210132         0.0000714448         0.0000042026         0.0000000000         0.0000000000         0.0000010507         0.0000000000         0.0000000000         0.0000052533         0.0000063040         0.0000000000         0.0000063040         0.0000000000     
+õ    0.0037088247         0.0007133972         0.0000000000         0.0001134711         0.0000021013         0.0000010507         0.0000304691         0.0000000000         0.0000000000         0.0001491935         0.0000000000         0.0000000000         0.0001124205         0.0000588369         0.0001145218         0.0019174519         0.0000000000         0.0000987619         0.0000661915         0.0000567356         0.0001292310         0.0000000000         0.0000010507         0.0000000000         0.0000000000         0.0000168105         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+ö    0.0001933212         0.0004948602         0.0000000000         0.0000273171         0.0000000000         0.0000000000         0.0009792138         0.0000010507         0.0000000000         0.0002773739         0.0000000000         0.0000724954         0.0000010507         0.0000031520         0.0000000000         0.0003183495         0.0000000000         0.0000000000         0.0000000000         0.0000010507         0.0007112958         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0001859666         0.0000000000         0.0000000000         0.0000000000         0.0000010507     
+÷    0.0001407882         0.0019374144         0.0000000000         0.0000042026         0.0000000000         0.0000000000         0.0030416565         0.0000000000         0.0000000000         0.0014604154         0.0000000000         0.0002132837         0.0000147092         0.0000031520         0.0004769990         0.0000714448         0.0000000000         0.0000231145         0.0000000000         0.0038054853         0.0006335471         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000851033         0.0000000000         0.0000000000         0.0001870172         0.0000000000         0.0000000000         0.0000000000     
+ø    0.0000714448         0.0014236423         0.0000000000         0.0000084053         0.0000000000         0.0000000000         0.0022547133         0.0000000000         0.0000000000         0.0019206038         0.0000000000         0.0003257042         0.0004045035         0.0000084053         0.0004181621         0.0002532087         0.0000262665         0.0000021013         0.0000010507         0.0000819514         0.0002574113         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000010507         0.0001891185         0.0000000000         0.0000000000         0.0000000000     
+ù    0.0000136586         0.0003834904         0.0000000000         0.0000010507         0.0000000000         0.0000000000         0.0012187639         0.0000000000         0.0000000000         0.0007648794         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000283678         0.0000000000         0.0000000000         0.0000042026         0.0000000000         0.0000000000         0.0000977112         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000105066         0.0000000000         0.0000000000         0.0000000000     
+û    0.0042068368         0.0000000000         0.0002469048         0.0011536231         0.0000619889         0.0001050659         0.0013007153         0.0000178612         0.0000462290         0.0000273171         0.0014330983         0.0001691560         0.0025037193         0.0015003404         0.0001828146         0.0000000000         0.0000977112         0.0002784245         0.0008184630         0.0007039412         0.0000042026         0.0000000000         0.0010601145         0.0000115572         0.0001407882         0.0004423273         0.0000021013         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000010507     
+ü    0.0091848571         0.0000010507         0.0000777487         0.0000105066         0.0000157599         0.0000315198         0.0015045430         0.0000000000         0.0001344843         0.0001376363         0.0000000000         0.0010443546         0.0000000000         0.0002290436         0.0011168500         0.0000304691         0.0000010507         0.0000000000         0.0007795886         0.0000619889         0.0000000000         0.0000000000         0.0000010507         0.0000903566         0.0000640902         0.0004959108         0.0000052533         0.0000000000         0.0000000000         0.0000000000         0.0004097568         0.0004622898     
+ý    0.0000084053         0.0000000000         0.0000000000         0.0000000000         0.0000052533         0.0000021013         0.0000000000         0.0000000000         0.0000031520         0.0000000000         0.0000105066         0.0000556849         0.0000535836         0.0000021013         0.0000168105         0.0000000000         0.0000094559         0.0000010507         0.0000357224         0.0024490851         0.0000000000         0.0000031520         0.0000105066         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000010507         0.0000000000         0.0000000000     
+þ    0.0030910375         0.0000010507         0.0003635279         0.0000000000         0.0000010507         0.0004875056         0.0000000000         0.0000052533         0.0000084053         0.0000000000         0.0000000000         0.0000042026         0.0000262665         0.0000094559         0.0000126079         0.0000000000         0.0000000000         0.0000535836         0.0000882553         0.0004917082         0.0000000000         0.0000000000         0.0000105066         0.0000052533         0.0000745968         0.0000273171         0.0004412766         0.0000000000         0.0000000000         0.0000000000         0.0000346717         0.0000000000     
+ÿ    0.0103458348         0.0000000000         0.0000672421         0.0003151976         0.0000735461         0.0005925714         0.0001029645         0.0005915208         0.0005148227         0.0000115572         0.0000409757         0.0001470922         0.0009224782         0.0003414640         0.0005673556         0.0000000000         0.0000409757         0.0000630395         0.0007028906         0.0013732107         0.0000084053         0.0000000000         0.0002132837         0.0000388744         0.0001176738         0.0000231145         0.0002132837         0.0000000000         0.0000000000         0.0000010507         0.0000977112         0.0001607508     
+
+
+                                     à                    á                    â                    ã                    ä                    å                    æ                    ç                    è                    é                    ê                    ë                    ì                    í                    î                    ï                    ð                    ñ                    ò                    ó                    ô                    õ                    ö                    ÷                    ø                    ù                    û                    ü                    ý                    þ                    ÿ         
+     0.0000000000         0.0017945248         0.0069028267         0.0148731225         0.0043623343         0.0077181377         0.0038601195         0.0019731368         0.0035806443         0.0113933413         0.0000105066         0.0096765653         0.0026245451         0.0052259756         0.0152198398         0.0119859128         0.0158754507         0.0041585066         0.0157409664         0.0075332218         0.0035365167         0.0011326099         0.0010989888         0.0003530213         0.0056546443         0.0007312584         0.0000819514         0.0000000000         0.0000000000         0.0025720121         0.0000147092         0.0011073941     
+à    0.0161948509         0.0000105066         0.0005631530         0.0032507376         0.0007816900         0.0018617670         0.0009560993         0.0013469443         0.0039420709         0.0000777487         0.0005421398         0.0037676616         0.0088465450         0.0026329503         0.0044127659         0.0000084053         0.0010296454         0.0028220689         0.0034293495         0.0043854488         0.0001281803         0.0004601884         0.0009813151         0.0000672421         0.0007480689         0.0011073941         0.0002563607         0.0000000000         0.0000000000         0.0000000000         0.0006661175         0.0021370395     
+á    0.0003109949         0.0007837913         0.0000021013         0.0000966606         0.0000147092         0.0000252158         0.0021853698         0.0000063040         0.0000000000         0.0007480689         0.0000000000         0.0001597001         0.0007270557         0.0000294184         0.0002878804         0.0020950132         0.0000000000         0.0011284073         0.0000861540         0.0000021013         0.0009518966         0.0000000000         0.0000651408         0.0000000000         0.0000252158         0.0000042026         0.0001575988         0.0040912644         0.0000168105         0.0000000000         0.0000000000         0.0004517832     
+â    0.0067095055         0.0054024863         0.0000168105         0.0000273171         0.0000525329         0.0003509200         0.0042719777         0.0000021013         0.0005295319         0.0031183546         0.0000000000         0.0001554975         0.0009308835         0.0001512948         0.0009582006         0.0073630151         0.0002395502         0.0006997386         0.0030322006         0.0002080304         0.0008237163         0.0000000000         0.0000357224         0.0000126079         0.0000336211         0.0012607903         0.0000042026         0.0026098358         0.0001786120         0.0000000000         0.0000021013         0.0002332462     
+ã    0.0007963992         0.0009245795         0.0000000000         0.0000336211         0.0000042026         0.0011094954         0.0004917082         0.0000063040         0.0000021013         0.0006745228         0.0000000000         0.0000861540         0.0013385390         0.0000021013         0.0002668673         0.0087961134         0.0000000000         0.0010527599         0.0000987619         0.0000021013         0.0005736596         0.0000000000         0.0000000000         0.0000021013         0.0000147092         0.0000021013         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+ä    0.0011662310         0.0043161053         0.0000273171         0.0010233414         0.0000084053         0.0000126079         0.0045871752         0.0000231145         0.0000021013         0.0025488976         0.0000000000         0.0002017264         0.0008489321         0.0000924580         0.0017945248         0.0036037588         0.0001197751         0.0016348247         0.0004034529         0.0001786120         0.0016537366         0.0000126079         0.0000588369         0.0000987619         0.0000336211         0.0001365856         0.0000000000         0.0005778622         0.0003740344         0.0000000000         0.0001176738         0.0003404134     
+å    0.0167495986         0.0000315198         0.0010086322         0.0015003404         0.0033978298         0.0024921621         0.0015192523         0.0010275441         0.0011704336         0.0001828146         0.0021706606         0.0010359493         0.0060496919         0.0037277365         0.0077160364         0.0005127214         0.0009329848         0.0066275542         0.0036710010         0.0034902877         0.0000903566         0.0000063040         0.0009056677         0.0001807133         0.0008867558         0.0005778622         0.0005757609         0.0000000000         0.0000000000         0.0000000000         0.0003467173         0.0002878804     
+æ    0.0001765106         0.0014499088         0.0000399250         0.0000000000         0.0000063040         0.0006976373         0.0036752036         0.0000252158         0.0000000000         0.0015192523         0.0000000000         0.0000672421         0.0000021013         0.0000063040         0.0012839048         0.0000378237         0.0000000000         0.0000021013         0.0000315198         0.0000000000         0.0001218764         0.0000000000         0.0000000000         0.0000000000         0.0000147092         0.0000000000         0.0000000000         0.0000000000         0.0000420263         0.0000000000         0.0000210132         0.0000000000     
+ç    0.0013742614         0.0048414346         0.0002038278         0.0007333597         0.0003383121         0.0006156859         0.0002563607         0.0001386869         0.0000651408         0.0004181621         0.0000000000         0.0001155724         0.0002017264         0.0003151976         0.0015991023         0.0009098703         0.0000168105         0.0001996251         0.0001933212         0.0000147092         0.0002626646         0.0000000000         0.0000000000         0.0000042026         0.0000168105         0.0000168105         0.0000000000         0.0005967741         0.0002542594         0.0000000000         0.0000294184         0.0004034529     
+è    0.0197439755         0.0001071672         0.0003992503         0.0023870962         0.0005211266         0.0013196271         0.0029145268         0.0003824397         0.0021055197         0.0009750111         0.0011200020         0.0019185025         0.0043203080         0.0027842452         0.0029376413         0.0001134711         0.0001975238         0.0003929463         0.0027022938         0.0029397426         0.0000042026         0.0000147092         0.0018113353         0.0013448429         0.0011872442         0.0003845410         0.0001975238         0.0000000000         0.0000000000         0.0000021013         0.0003908450         0.0021139250     
+é    0.0066884923         0.0000000000         0.0000021013         0.0000000000         0.0000021013         0.0001512948         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000315198         0.0000000000         0.0000462290         0.0003803384         0.0000147092         0.0000021013         0.0000042026         0.0008909585         0.0002311449         0.0000000000         0.0000000000         0.0000021013         0.0000231145         0.0000525329         0.0001365856         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+ê    0.0042383566         0.0069448530         0.0000000000         0.0005862675         0.0000021013         0.0000000000         0.0003614265         0.0000147092         0.0000042026         0.0025531003         0.0000000000         0.0000147092         0.0003635279         0.0000063040         0.0010002269         0.0080354366         0.0000000000         0.0014877325         0.0000861540         0.0005106201         0.0015045430         0.0000000000         0.0000000000         0.0000147092         0.0000063040         0.0000105066         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+ë    0.0071402755         0.0061946828         0.0000357224         0.0000042026         0.0000924580         0.0003614265         0.0044547923         0.0003299068         0.0000042026         0.0068187740         0.0000000000         0.0004496819         0.0000735461         0.0000042026         0.0002899818         0.0062072907         0.0002080304         0.0000021013         0.0011893455         0.0000210132         0.0010842796         0.0000042026         0.0000189119         0.0000021013         0.0002059291         0.0000084053         0.0000042026         0.0009140729         0.0037445471         0.0000000000         0.0010674691         0.0017882209     
+ì    0.0074302573         0.0025552016         0.0000546342         0.0000000000         0.0000567356         0.0000042026         0.0027296109         0.0000000000         0.0000000000         0.0030153900         0.0000000000         0.0000609382         0.0001428896         0.0000231145         0.0008867558         0.0033558034         0.0001491935         0.0000231145         0.0001155724         0.0000609382         0.0021832685         0.0000021013         0.0000000000         0.0000147092         0.0000168105         0.0000105066         0.0000042026         0.0007879939         0.0000273171         0.0000000000         0.0000231145         0.0004727963     
+í    0.0041374934         0.0100169786         0.0000021013         0.0000294184         0.0001092685         0.0004706950         0.0084199776         0.0000147092         0.0000105066         0.0082959999         0.0000000000         0.0001807133         0.0000042026         0.0000000000         0.0027254083         0.0086700344         0.0000021013         0.0000294184         0.0004854043         0.0003719331         0.0020466829         0.0000063040         0.0000000000         0.0008867558         0.0001323830         0.0000147092         0.0001155724         0.0033452968         0.0009666059         0.0000000000         0.0001365856         0.0019752381     
+î    0.0221394770         0.0000042026         0.0032192178         0.0074701823         0.0050053373         0.0047573819         0.0025278845         0.0017840182         0.0010296454         0.0008174124         0.0031330638         0.0015150496         0.0068376859         0.0047300648         0.0064237264         0.0002185370         0.0013007153         0.0061652644         0.0069259412         0.0071255663         0.0000525329         0.0004244661         0.0004517832         0.0000504316         0.0011641297         0.0009624032         0.0001554975         0.0000000000         0.0000000000         0.0000105066         0.0007858926         0.0006598136     
+ï    0.0000462290         0.0011662310         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0024039068         0.0000000000         0.0000000000         0.0006913333         0.0000000000         0.0000588369         0.0008531347         0.0000000000         0.0000546342         0.0088843687         0.0000378237         0.0061022249         0.0000000000         0.0000378237         0.0007606768         0.0000021013         0.0000000000         0.0000168105         0.0001744093         0.0000000000         0.0000000000         0.0003109949         0.0010926849         0.0000000000         0.0000000000         0.0003172989     
+ð    0.0014604154         0.0085859817         0.0001134711         0.0003215015         0.0002815765         0.0003320081         0.0056924680         0.0003046910         0.0000252158         0.0047132543         0.0000000000         0.0002164357         0.0001008632         0.0003866423         0.0006682188         0.0065498054         0.0000819514         0.0000042026         0.0002227396         0.0005862675         0.0029187295         0.0000231145         0.0000924580         0.0000462290         0.0000525329         0.0002941844         0.0000420263         0.0016600405         0.0008489321         0.0000000000         0.0000672421         0.0010149362     
+ñ    0.0033410942         0.0013490456         0.0000504316         0.0017314853         0.0000252158         0.0003341094         0.0027674346         0.0000252158         0.0000315198         0.0014288956         0.0000000000         0.0050536676         0.0025404924         0.0009876190         0.0007879939         0.0029859716         0.0016894590         0.0004181621         0.0009960243         0.0108175805         0.0006156859         0.0000084053         0.0001723080         0.0000294184         0.0002773739         0.0000861540         0.0000021013         0.0003151976         0.0028640952         0.0000000000         0.0001071672         0.0030742269     
+ò    0.0049948308         0.0053541560         0.0000336211         0.0026329503         0.0000084053         0.0001786120         0.0043245106         0.0000000000         0.0000063040         0.0033389929         0.0000000000         0.0004013516         0.0002227396         0.0000126079         0.0008741479         0.0146041539         0.0000651408         0.0027275096         0.0008300203         0.0001134711         0.0014940365         0.0000021013         0.0000063040         0.0000714448         0.0002311449         0.0000000000         0.0000063040         0.0012418784         0.0051503282         0.0000000000         0.0000378237         0.0005715583     
+ó    0.0056672522         0.0000021013         0.0005778622         0.0008846545         0.0013322350         0.0016348247         0.0001933212         0.0013070192         0.0012733982         0.0000063040         0.0000546342         0.0006787254         0.0010968875         0.0009035664         0.0003025897         0.0000021013         0.0007249544         0.0005043161         0.0013385390         0.0015549747         0.0000021013         0.0000084053         0.0002878804         0.0000084053         0.0007333597         0.0006934346         0.0002605633         0.0000000000         0.0000000000         0.0000000000         0.0009603019         0.0000714448     
+ô    0.0001744093         0.0001302817         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0001092685         0.0000000000         0.0000000000         0.0005841662         0.0000000000         0.0000000000         0.0000756474         0.0000000000         0.0000000000         0.0000693435         0.0000042026         0.0006640162         0.0000063040         0.0000273171         0.0000651408         0.0000042026         0.0000000000         0.0000000000         0.0000021013         0.0000000000         0.0000000000         0.0000021013         0.0000021013         0.0000000000         0.0000084053         0.0000000000     
+õ    0.0038243971         0.0006934346         0.0000000000         0.0001092685         0.0000042026         0.0000000000         0.0000210132         0.0000000000         0.0000000000         0.0001723080         0.0000000000         0.0000000000         0.0000987619         0.0000567356         0.0001155724         0.0018764762         0.0000000000         0.0000861540         0.0000567356         0.0000462290         0.0001365856         0.0000000000         0.0000021013         0.0000000000         0.0000000000         0.0000252158         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+ö    0.0002059291         0.0004559858         0.0000000000         0.0000357224         0.0000000000         0.0000000000         0.0009624032         0.0000000000         0.0000000000         0.0002689686         0.0000000000         0.0000693435         0.0000021013         0.0000021013         0.0000000000         0.0003004883         0.0000000000         0.0000000000         0.0000000000         0.0000021013         0.0006661175         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0001849159         0.0000000000         0.0000000000         0.0000000000         0.0000021013     
+÷    0.0001407882         0.0019374144         0.0000000000         0.0000063040         0.0000000000         0.0000000000         0.0030364032         0.0000000000         0.0000000000         0.0014415035         0.0000000000         0.0002059291         0.0000210132         0.0000021013         0.0004812016         0.0000651408         0.0000000000         0.0000252158         0.0000000000         0.0038180932         0.0006514083         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0001029645         0.0000000000         0.0000000000         0.0001891185         0.0000000000         0.0000000000         0.0000000000     
+ø    0.0000756474         0.0015066444         0.0000000000         0.0000105066         0.0000000000         0.0000000000         0.0022547133         0.0000000000         0.0000000000         0.0019836433         0.0000000000         0.0003109949         0.0003719331         0.0000084053         0.0004286687         0.0002626646         0.0000315198         0.0000021013         0.0000021013         0.0000777487         0.0002479554         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000021013         0.0002017264         0.0000000000         0.0000000000         0.0000000000     
+ù    0.0000147092         0.0003467173         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0012439797         0.0000000000         0.0000000000         0.0007522715         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000273171         0.0000000000         0.0000000000         0.0000063040         0.0000000000         0.0000000000         0.0000924580         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000126079         0.0000000000         0.0000000000         0.0000000000     
+û    0.0043623343         0.0000000000         0.0002521581         0.0011557244         0.0000609382         0.0001092685         0.0012418784         0.0000210132         0.0000546342         0.0000273171         0.0014246930         0.0001597001         0.0023744883         0.0014520101         0.0001849159         0.0000000000         0.0001029645         0.0002752725         0.0007942979         0.0006997386         0.0000042026         0.0000000000         0.0010674691         0.0000105066         0.0001533961         0.0003971489         0.0000042026         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000021013     
+ü    0.0091092097         0.0000021013         0.0000861540         0.0000084053         0.0000147092         0.0000252158         0.0015423668         0.0000000000         0.0001302817         0.0001470922         0.0000000000         0.0010296454         0.0000000000         0.0002458541         0.0010569625         0.0000294184         0.0000021013         0.0000000000         0.0008006018         0.0000735461         0.0000000000         0.0000000000         0.0000021013         0.0000966606         0.0000651408         0.0004854043         0.0000063040         0.0000000000         0.0000000000         0.0000000000         0.0003929463         0.0004622898     
+ý    0.0000084053         0.0000000000         0.0000000000         0.0000000000         0.0000063040         0.0000042026         0.0000000000         0.0000000000         0.0000042026         0.0000000000         0.0000126079         0.0000630395         0.0000525329         0.0000021013         0.0000105066         0.0000000000         0.0000105066         0.0000000000         0.0000420263         0.0025236818         0.0000000000         0.0000021013         0.0000042026         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000021013         0.0000000000         0.0000000000     
+þ    0.0029880729         0.0000021013         0.0003593252         0.0000000000         0.0000021013         0.0004643911         0.0000000000         0.0000084053         0.0000084053         0.0000000000         0.0000000000         0.0000042026         0.0000294184         0.0000084053         0.0000126079         0.0000000000         0.0000000000         0.0000651408         0.0000882553         0.0004854043         0.0000000000         0.0000000000         0.0000126079         0.0000063040         0.0000735461         0.0000399250         0.0004706950         0.0000000000         0.0000000000         0.0000000000         0.0000315198         0.0000000000     
+ÿ    0.0103615946         0.0000000000         0.0000609382         0.0003656292         0.0000777487         0.0006135846         0.0001029645         0.0006072806         0.0005526464         0.0000126079         0.0000336211         0.0001407882         0.0008909585         0.0003320081         0.0005799635         0.0000000000         0.0000357224         0.0000630395         0.0007060425         0.0013637548         0.0000126079         0.0000000000         0.0001786120         0.0000357224         0.0001155724         0.0000273171         0.0002038278         0.0000000000         0.0000000000         0.0000000000         0.0001071672         0.0001554975     
+
+
+                à                    á                    â                    ã                    ä                    å                    æ                    ç                    è                    é                    ê                    ë                    ì                    í                    î                    ï                    ð                    ñ                    ò                    ó                    ô                    õ                    ö                    ÷                    ø                    ù                    û                    ü                    ý                    þ                    ÿ         
+à    0.0001929153         0.0014907088         0.0054003743         0.0013817242         0.0031593004         0.0016873821         0.0016886348         0.0050483666         0.0015545963         0.0006238428         0.0058513450         0.0108032540         0.0039635315         0.0071879721         0.0013679445         0.0030277673         0.0039434884         0.0057987318         0.0061620137         0.0005424176         0.0007090262         0.0013303636         0.0001252696         0.0014092835         0.0014055254         0.0003144268         0.0000000000         0.0000000000         0.0003469969         0.0008167581         0.0027434052     
+á    0.0009583128         0.0000112743         0.0001277750         0.0000150324         0.0000313174         0.0025855654         0.0000100216         0.0000062635         0.0009157211         0.0000000000         0.0001954206         0.0008869091         0.0000438444         0.0003607766         0.0025504899         0.0000125270         0.0013190893         0.0000939522         0.0000075162         0.0011487226         0.0000000000         0.0000939522         0.0000012527         0.0000288120         0.0000062635         0.0001916626         0.0047464668         0.0000363282         0.0000400863         0.0000000000         0.0005436703     
+â    0.0065503496         0.0002693297         0.0004810354         0.0004021156         0.0008017257         0.0052751047         0.0000613821         0.0007253112         0.0040424514         0.0000012527         0.0008242743         0.0013215947         0.0004898043         0.0016773605         0.0093927178         0.0011286795         0.0010422434         0.0045134652         0.0008593498         0.0011462172         0.0000538659         0.0000839307         0.0000425917         0.0002192219         0.0016197365         0.0000075162         0.0030503158         0.0001941679         0.0003006471         0.0000012527         0.0003332173     
+ã    0.0011662604         0.0000526133         0.0001202589         0.0000263066         0.0014355901         0.0006401279         0.0000137797         0.0000413390         0.0008781402         0.0000000000         0.0001277750         0.0016159784         0.0000225485         0.0004146425         0.0105389351         0.0001465655         0.0013002989         0.0002405177         0.0000238012         0.0007177951         0.0000037581         0.0000012527         0.0000037581         0.0000325701         0.0000037581         0.0000000000         0.0000000000         0.0000000000         0.0000062635         0.0000000000         0.0000075162     
+ä    0.0052663358         0.0000776672         0.0013516594         0.0000576240         0.0000688983         0.0053552772         0.0000325701         0.0000488552         0.0031116979         0.0000000000         0.0003457442         0.0009921356         0.0001603451         0.0023199938         0.0044320400         0.0002580555         0.0018928243         0.0006401279         0.0002630663         0.0019191309         0.0000375809         0.0000588767         0.0001165008         0.0000626348         0.0001803883         0.0000012527         0.0007027627         0.0004221587         0.0000388336         0.0001490709         0.0004221587     
+å    0.0002016841         0.0022348104         0.0037355408         0.0045786054         0.0040186501         0.0021834499         0.0014781818         0.0019842711         0.0016047041         0.0025367103         0.0021796918         0.0076564806         0.0054041324         0.0108045067         0.0021320893         0.0031956286         0.0084920291         0.0063812356         0.0050684098         0.0006488968         0.0001215116         0.0012389168         0.0002580555         0.0015157627         0.0008042311         0.0007040154         0.0000000000         0.0000000000         0.0002605609         0.0003945994         0.0004396964     
+æ    0.0017136887         0.0000588767         0.0000162851         0.0000162851         0.0008919199         0.0044157549         0.0000263066         0.0000075162         0.0018264314         0.0000000000         0.0000764145         0.0000037581         0.0000225485         0.0015545963         0.0000563713         0.0000137797         0.0000075162         0.0000588767         0.0000162851         0.0001590924         0.0000012527         0.0000000000         0.0000000000         0.0000300647         0.0000000000         0.0000000000         0.0000000000         0.0000513606         0.0000125270         0.0000275593         0.0000050108     
+ç    0.0059979105         0.0003031525         0.0010647920         0.0004634977         0.0008042311         0.0003056579         0.0001766302         0.0000926995         0.0005236271         0.0000000000         0.0002906256         0.0002530447         0.0005023313         0.0020544221         0.0011662604         0.0002016841         0.0002856148         0.0004509707         0.0000889414         0.0003044052         0.0000062635         0.0000087689         0.0000075162         0.0000363282         0.0000263066         0.0000000000         0.0007403436         0.0003394807         0.0000513606         0.0000313174         0.0005123528     
+è    0.0003056579         0.0015207735         0.0052563142         0.0012915300         0.0028110508         0.0039196871         0.0006877303         0.0030691063         0.0027396471         0.0014017673         0.0036378304         0.0056271124         0.0040675053         0.0058864205         0.0019617226         0.0028962341         0.0011549861         0.0056459028         0.0046926008         0.0005411649         0.0001916626         0.0023187411         0.0015746394         0.0020982665         0.0005850092         0.0002179692         0.0000000000         0.0000000000         0.0002881202         0.0004309276         0.0026068613     
+é    0.0001478182         0.0003181849         0.0006689399         0.0002730878         0.0006877303         0.0001114900         0.0001315331         0.0001528290         0.0005912727         0.0000050108         0.0005336487         0.0001540817         0.0003733035         0.0010372326         0.0005261325         0.0007478598         0.0003407334         0.0018201679         0.0005298906         0.0001578398         0.0001027211         0.0000864361         0.0000663929         0.0003257011         0.0002380123         0.0000000000         0.0000000000         0.0000000000         0.0000651402         0.0000000000         0.0000375809     
+ê    0.0084732386         0.0004259168         0.0010171895         0.0001152481         0.0002442758         0.0004860462         0.0002530447         0.0001014684         0.0032883281         0.0000000000         0.0003733035         0.0004948151         0.0001666086         0.0016974037         0.0099125868         0.0004384438         0.0019228890         0.0005486810         0.0008142527         0.0019216363         0.0000313174         0.0000313174         0.0000263066         0.0001127427         0.0000413390         0.0000025054         0.0000000000         0.0000012527         0.0001265223         0.0000050108         0.0000576240     
+ë    0.0074021832         0.0002655716         0.0007516179         0.0003833251         0.0008117473         0.0056271124         0.0004998259         0.0001340385         0.0084607117         0.0000000000         0.0011474699         0.0001666086         0.0001453128         0.0010735608         0.0084306470         0.0011387011         0.0002016841         0.0021358474         0.0003758089         0.0014318320         0.0000688983         0.0000551186         0.0000175378         0.0006726980         0.0000413390         0.0000100216         0.0010923513         0.0044044806         0.0001628505         0.0012426749         0.0021821972     
+ì    0.0030878967         0.0003645347         0.0007415963         0.0003808197         0.0004296749         0.0033897965         0.0001465655         0.0001515763         0.0043681524         0.0000000000         0.0005975362         0.0003557658         0.0002568028         0.0017387426         0.0047088859         0.0009808613         0.0002517920         0.0010572758         0.0003707981         0.0028874653         0.0000688983         0.0000638875         0.0000388336         0.0005699769         0.0000764145         0.0000050108         0.0009858721         0.0000350755         0.0000926995         0.0000388336         0.0006025470     
+í    0.0119845467         0.0003206903         0.0005912727         0.0002342542         0.0007679029         0.0102420460         0.0000601294         0.0001703667         0.0101681369         0.0000000000         0.0004371911         0.0000526133         0.0001027211         0.0037468150         0.0106892586         0.0006138213         0.0001603451         0.0011311849         0.0006351171         0.0026870338         0.0000200431         0.0000601294         0.0010059152         0.0002530447         0.0000350755         0.0001428074         0.0039622788         0.0011161525         0.0000638875         0.0001553344         0.0023976610     
+î    0.0001803883         0.0053202017         0.0118104219         0.0065077579         0.0069336747         0.0036553682         0.0025254360         0.0017324792         0.0024227149         0.0038132079         0.0030377888         0.0084832602         0.0063449074         0.0100228241         0.0024715701         0.0039998597         0.0079984667         0.0105915483         0.0098674898         0.0006438860         0.0005950308         0.0007228058         0.0001014684         0.0028849599         0.0012602126         0.0001929153         0.0000000000         0.0000000000         0.0004021156         0.0008944253         0.0010735608     
+ï    0.0014080308         0.0000012527         0.0000050108         0.0000012527         0.0000025054         0.0028837072         0.0000000000         0.0000012527         0.0008267796         0.0000000000         0.0000776672         0.0010622866         0.0000012527         0.0000889414         0.0105188919         0.0000501079         0.0072055099         0.0000037581         0.0000551186         0.0008418120         0.0000012527         0.0000000000         0.0000238012         0.0002179692         0.0000012527         0.0000000000         0.0003958521         0.0013128259         0.0000025054         0.0000000000         0.0003557658     
+ð    0.0102708580         0.0002079476         0.0005399122         0.0003294592         0.0004309276         0.0068434806         0.0003344699         0.0000851834         0.0056747148         0.0000000000         0.0003394807         0.0001265223         0.0004797827         0.0009345115         0.0079020091         0.0003620293         0.0000250539         0.0004171479         0.0007628921         0.0036090184         0.0000212958         0.0001102373         0.0000688983         0.0000989630         0.0003770616         0.0000463498         0.0019116148         0.0010422434         0.0000363282         0.0000926995         0.0012790031     
+ñ    0.0016297581         0.0002267381         0.0023099722         0.0001565871         0.0005762404         0.0033559737         0.0001603451         0.0001365439         0.0017663020         0.0000000000         0.0062522079         0.0031242249         0.0012213790         0.0013341217         0.0037392988         0.0023926502         0.0006689399         0.0016109676         0.0134439381         0.0009006887         0.0000350755         0.0002092003         0.0000463498         0.0004710139         0.0001290277         0.0000025054         0.0003657874         0.0033597318         0.0001578398         0.0001603451         0.0036378304     
+ò    0.0063436547         0.0003670401         0.0036027549         0.0001841464         0.0005599553         0.0053126856         0.0001377966         0.0001265223         0.0044859059         0.0000000000         0.0007453544         0.0003457442         0.0001929153         0.0016472958         0.0178684619         0.0005486810         0.0032983497         0.0015733867         0.0004522234         0.0018828027         0.0000338228         0.0000588767         0.0000839307         0.0004559815         0.0000187904         0.0000137797         0.0015094992         0.0061620137         0.0001127427         0.0000388336         0.0007591340     
+ó    0.0000864361         0.0009307534         0.0016485485         0.0016786132         0.0022009876         0.0003294592         0.0015896718         0.0015758921         0.0006564129         0.0000764145         0.0013428906         0.0014092835         0.0013090678         0.0010672974         0.0004008629         0.0014719183         0.0007716610         0.0022009876         0.0021233204         0.0001127427         0.0000551186         0.0004021156         0.0000200431         0.0013266055         0.0008104946         0.0003532604         0.0000000000         0.0000000000         0.0000826780         0.0011073836         0.0001340385     
+ô    0.0001490709         0.0000100216         0.0000200431         0.0000012527         0.0000037581         0.0001165008         0.0000012527         0.0000050108         0.0007553759         0.0000000000         0.0000012527         0.0001139954         0.0000025054         0.0000150324         0.0001190062         0.0000238012         0.0008818983         0.0000363282         0.0000275593         0.0000864361         0.0000050108         0.0000025054         0.0000000000         0.0000050108         0.0000037581         0.0000000000         0.0000062635         0.0000075162         0.0000012527         0.0000075162         0.0000012527     
+õ    0.0008919199         0.0001465655         0.0005374068         0.0001002157         0.0002367596         0.0001127427         0.0000476025         0.0000952049         0.0005774931         0.0000000000         0.0002405177         0.0003457442         0.0002029368         0.0004860462         0.0025793019         0.0004910570         0.0002530447         0.0006063051         0.0001979260         0.0002868675         0.0000325701         0.0000187904         0.0000150324         0.0000864361         0.0000363282         0.0000012527         0.0000000000         0.0000000000         0.0000450971         0.0000012527         0.0000200431     
+ö    0.0005912727         0.0000075162         0.0000588767         0.0000050108         0.0000062635         0.0011725239         0.0000012527         0.0000025054         0.0003520077         0.0000000000         0.0001064792         0.0000050108         0.0000050108         0.0000212958         0.0003996102         0.0000288120         0.0000100216         0.0000263066         0.0000125270         0.0008480755         0.0000012527         0.0000000000         0.0000000000         0.0000062635         0.0000012527         0.0000000000         0.0002217273         0.0000000000         0.0000037581         0.0000000000         0.0000012527     
+÷    0.0023124776         0.0000050108         0.0000225485         0.0000000000         0.0000075162         0.0036278089         0.0000050108         0.0000000000         0.0017512696         0.0000000000         0.0002630663         0.0000250539         0.0000050108         0.0005787458         0.0001027211         0.0000263066         0.0000363282         0.0000137797         0.0045435299         0.0007591340         0.0000000000         0.0000025054         0.0000000000         0.0000100216         0.0001027211         0.0000000000         0.0000000000         0.0002229800         0.0000012527         0.0000000000         0.0000000000     
+ø    0.0016999091         0.0000087689         0.0000187904         0.0000025054         0.0000050108         0.0026907919         0.0000025054         0.0000025054         0.0022899291         0.0000000000         0.0003945994         0.0004860462         0.0000137797         0.0005035840         0.0003069106         0.0000438444         0.0000050108         0.0000062635         0.0001002157         0.0003069106         0.0000000000         0.0000000000         0.0000012527         0.0000012527         0.0000000000         0.0000000000         0.0000012527         0.0002254854         0.0000012527         0.0000000000         0.0000000000     
+ù    0.0004572342         0.0000000000         0.0000037581         0.0000012527         0.0000000000         0.0014556333         0.0000000000         0.0000012527         0.0009132157         0.0000000000         0.0000025054         0.0000000000         0.0000000000         0.0000338228         0.0000000000         0.0000025054         0.0000062635         0.0000000000         0.0000000000         0.0001165008         0.0000012527         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000125270         0.0000000000         0.0000000000         0.0000000000     
+û    0.0000526133         0.0005699769         0.0018389584         0.0001866518         0.0003895886         0.0016685916         0.0000513606         0.0001841464         0.0005524391         0.0017111833         0.0004371911         0.0030453050         0.0019692388         0.0007917041         0.0003131741         0.0006188320         0.0004622450         0.0014305793         0.0010434961         0.0001027211         0.0000463498         0.0012990462         0.0000187904         0.0002918783         0.0005424176         0.0000025054         0.0000000000         0.0000000000         0.0000476025         0.0000000000         0.0000238012     
+ü    0.0002580555         0.0003883359         0.0012126101         0.0002643189         0.0004810354         0.0022748967         0.0000688983         0.0004359384         0.0010109260         0.0000000000         0.0019817658         0.0001440601         0.0005323960         0.0023989137         0.0008004730         0.0009771032         0.0002442758         0.0019892819         0.0005411649         0.0002029368         0.0000538659         0.0000701510         0.0001202589         0.0004985732         0.0006338644         0.0000087689         0.0000000000         0.0000000000         0.0002355069         0.0004910570         0.0006263482     
+ý    0.0000000000         0.0000000000         0.0000000000         0.0000062635         0.0000050108         0.0000000000         0.0000000000         0.0000037581         0.0000000000         0.0000125270         0.0000663929         0.0000638875         0.0000037581         0.0000200431         0.0000000000         0.0000137797         0.0000012527         0.0000438444         0.0029200354         0.0000000000         0.0000037581         0.0000125270         0.0000000000         0.0000025054         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000012527         0.0000000000         0.0000000000     
+þ    0.0000939522         0.0005399122         0.0002831094         0.0001252696         0.0007766718         0.0000688983         0.0000789199         0.0000789199         0.0003194376         0.0000000000         0.0002154638         0.0000989630         0.0001315331         0.0002856148         0.0002755932         0.0003394807         0.0002016841         0.0004559815         0.0007390909         0.0001002157         0.0000263066         0.0000313174         0.0000325701         0.0002367596         0.0000638875         0.0005298906         0.0000000000         0.0000000000         0.0000388336         0.0000413390         0.0000350755     
+ÿ    0.0002029368         0.0005248798         0.0016748551         0.0004121371         0.0012063467         0.0004634977         0.0007992203         0.0008894145         0.0009983991         0.0000488552         0.0010084206         0.0012689815         0.0007077735         0.0022247889         0.0008267796         0.0011549861         0.0003745562         0.0020581802         0.0021847026         0.0002605609         0.0000814253         0.0003206903         0.0000789199         0.0004634977         0.0000739091         0.0002593082         0.0000000000         0.0000000000         0.0001540817         0.0001165008         0.0002517920     
+
+
+                à                    á                    â                    ã                    ä                    å                    æ                    ç                    è                    é                    ê                    ë                    ì                    í                    î                    ï                    ð                    ñ                    ò                    ó                    ô                    õ                    ö                    ÷                    ø                    ù                    û                    ü                    ý                    þ                    ÿ         
+à    0.0001904099         0.0014531279         0.0053941108         0.0013679445         0.0031818489         0.0017237103         0.0016710970         0.0050608936         0.0015758921         0.0006213374         0.0058576085         0.0106529304         0.0039459938         0.0072957040         0.0013804715         0.0030114822         0.0039008967         0.0057674144         0.0061808042         0.0005136055         0.0007290693         0.0013203420         0.0001703667         0.0014305793         0.0013604283         0.0003006471         0.0000000000         0.0000000000         0.0003657874         0.0008192635         0.0026507056     
+á    0.0009645763         0.0000050108         0.0001177535         0.0000100216         0.0000275593         0.0025655223         0.0000125270         0.0000075162         0.0009570601         0.0000000000         0.0002029368         0.0008593498         0.0000450971         0.0003657874         0.0025605115         0.0000150324         0.0013804715         0.0001052265         0.0000075162         0.0011098890         0.0000000000         0.0001027211         0.0000000000         0.0000300647         0.0000050108         0.0001853991         0.0046951062         0.0000425917         0.0000300647         0.0000000000         0.0005111001     
+â    0.0066893989         0.0002655716         0.0004910570         0.0004083790         0.0008092419         0.0053014113         0.0000601294         0.0007591340         0.0040411987         0.0000025054         0.0008668659         0.0012977935         0.0005010786         0.0016585701         0.0093651585         0.0011148998         0.0010622866         0.0045698366         0.0008443174         0.0011700185         0.0000476025         0.0000801726         0.0000501079         0.0001853991         0.0016360215         0.0000100216         0.0030515685         0.0001778829         0.0002881202         0.0000000000         0.0003181849     
+ã    0.0011599969         0.0000726564         0.0001252696         0.0000275593         0.0014355901         0.0006589183         0.0000125270         0.0000375809         0.0009645763         0.0000000000         0.0001152481         0.0016685916         0.0000200431         0.0003883359         0.0104023911         0.0001528290         0.0013203420         0.0002179692         0.0000175378         0.0007415963         0.0000025054         0.0000025054         0.0000075162         0.0000375809         0.0000025054         0.0000000000         0.0000000000         0.0000000000         0.0000075162         0.0000000000         0.0000025054     
+ä    0.0052888843         0.0000776672         0.0013504068         0.0000576240         0.0000626348         0.0052588196         0.0000350755         0.0000501079         0.0031668166         0.0000000000         0.0003507550         0.0009570601         0.0001553344         0.0023024560         0.0045748474         0.0002780986         0.0019166255         0.0006463914         0.0002831094         0.0018590015         0.0000350755         0.0000601294         0.0001302804         0.0000626348         0.0001528290         0.0000000000         0.0007390909         0.0003933467         0.0000325701         0.0001277750         0.0003808197     
+å    0.0001728721         0.0023500585         0.0037656055         0.0046049121         0.0039484991         0.0021521325         0.0015157627         0.0020494114         0.0016159784         0.0025003821         0.0021371001         0.0077692233         0.0053289706         0.0109210075         0.0021295839         0.0032094083         0.0083579906         0.0065966994         0.0051586039         0.0006964992         0.0001277750         0.0012476856         0.0002580555         0.0015358058         0.0008117473         0.0007065208         0.0000000000         0.0000000000         0.0002555501         0.0003632820         0.0004459599     
+æ    0.0016610755         0.0000551186         0.0000200431         0.0000200431         0.0009470385         0.0045046964         0.0000250539         0.0000025054         0.0018063883         0.0000000000         0.0000726564         0.0000050108         0.0000250539         0.0016059568         0.0000250539         0.0000200431         0.0000075162         0.0000450971         0.0000175378         0.0001678613         0.0000000000         0.0000000000         0.0000000000         0.0000275593         0.0000000000         0.0000000000         0.0000000000         0.0000476025         0.0000125270         0.0000250539         0.0000000000     
+ç    0.0058951894         0.0003282065         0.0010572758         0.0004359384         0.0007841880         0.0002981418         0.0001728721         0.0000977103         0.0005411649         0.0000000000         0.0002831094         0.0002430231         0.0004735193         0.0019567118         0.0011725239         0.0002204746         0.0002655716         0.0004685085         0.0000726564         0.0002956364         0.0000000000         0.0000075162         0.0000050108         0.0000300647         0.0000275593         0.0000000000         0.0007616394         0.0003582712         0.0000476025         0.0000250539         0.0005311433     
+è    0.0002981418         0.0015132573         0.0051460769         0.0013153313         0.0028761910         0.0038507888         0.0006514021         0.0031593004         0.0026231463         0.0014080308         0.0036177873         0.0055895315         0.0040186501         0.0058150168         0.0019742496         0.0027559321         0.0011399538         0.0057273281         0.0045723420         0.0005561972         0.0001853991         0.0022748967         0.0015157627         0.0020469060         0.0006363698         0.0002029368         0.0000000000         0.0000000000         0.0002780986         0.0004234114         0.0025780493     
+é    0.0001528290         0.0003131741         0.0006814669         0.0002780986         0.0006990046         0.0001027211         0.0001428074         0.0001628505         0.0006063051         0.0000075162         0.0005637134         0.0001703667         0.0003532604         0.0010146841         0.0005035840         0.0007491125         0.0003507550         0.0018715285         0.0005687242         0.0001403020         0.0001152481         0.0000876888         0.0000901941         0.0003156795         0.0002630663         0.0000000000         0.0000000000         0.0000000000         0.0000626348         0.0000000000         0.0000350755     
+ê    0.0085208411         0.0004133898         0.0010146841         0.0001327858         0.0002680770         0.0004885516         0.0002129584         0.0001177535         0.0033747642         0.0000000000         0.0003908413         0.0004484653         0.0001853991         0.0016861294         0.0099138395         0.0003983575         0.0019592172         0.0005361541         0.0007791772         0.0019241417         0.0000300647         0.0000275593         0.0000375809         0.0001052265         0.0000200431         0.0000050108         0.0000000000         0.0000000000         0.0001377966         0.0000075162         0.0000526133     
+ë    0.0074009305         0.0002405177         0.0007866934         0.0004209060         0.0008042311         0.0055795099         0.0005010786         0.0001277750         0.0086385946         0.0000000000         0.0011174052         0.0001728721         0.0001327858         0.0010572758         0.0082352263         0.0012176209         0.0001803883         0.0021170570         0.0003833251         0.0014255685         0.0000651402         0.0000651402         0.0000100216         0.0006764561         0.0000526133         0.0000125270         0.0010848351         0.0043543728         0.0001778829         0.0012552018         0.0022022403     
+ì    0.0032545053         0.0003908413         0.0007616394         0.0003833251         0.0004083790         0.0034198613         0.0001352912         0.0001628505         0.0042917380         0.0000000000         0.0005987889         0.0003307119         0.0002755932         0.0017186995         0.0047702680         0.0009921356         0.0003106687         0.0010196949         0.0003707981         0.0029363204         0.0000601294         0.0000776672         0.0000400863         0.0005436703         0.0000926995         0.0000050108         0.0009821140         0.0000325701         0.0000901941         0.0000400863         0.0006163266     
+í    0.0120233803         0.0003006471         0.0006063051         0.0002204746         0.0007566286         0.0101142710         0.0000576240         0.0001778829         0.0102295190         0.0000000000         0.0004384438         0.0000551186         0.0000952049         0.0036353250         0.0108383295         0.0005787458         0.0001803883         0.0011399538         0.0006088105         0.0027784807         0.0000250539         0.0000726564         0.0010046625         0.0002405177         0.0000200431         0.0001252696         0.0040411987         0.0011424591         0.0000576240         0.0001453128         0.0025028875     
+î    0.0001703667         0.0053264652         0.0117252386         0.0064614082         0.0069449490         0.0036979599         0.0024878551         0.0017111833         0.0024653066         0.0036678951         0.0029663851         0.0086160460         0.0063737194         0.0100817009         0.0025229306         0.0040136394         0.0079796763         0.0106378981         0.0098737533         0.0006564129         0.0006012943         0.0007090262         0.0000851834         0.0028636640         0.0013453960         0.0002104530         0.0000000000         0.0000000000         0.0003357226         0.0008919199         0.0010447488     
+ï    0.0014756764         0.0000000000         0.0000025054         0.0000000000         0.0000000000         0.0029212881         0.0000000000         0.0000000000         0.0008443174         0.0000000000         0.0000776672         0.0010472542         0.0000000000         0.0000826780         0.0105777686         0.0000526133         0.0070977780         0.0000075162         0.0000626348         0.0008267796         0.0000000000         0.0000000000         0.0000250539         0.0002029368         0.0000000000         0.0000000000         0.0004259168         0.0012652234         0.0000025054         0.0000000000         0.0003682928     
+ð    0.0102871431         0.0002254854         0.0005411649         0.0003206903         0.0003858305         0.0067545391         0.0003257011         0.0000851834         0.0056346285         0.0000000000         0.0003307119         0.0001302804         0.0004885516         0.0009771032         0.0079220522         0.0003457442         0.0000225485         0.0004359384         0.0007816826         0.0036578736         0.0000125270         0.0000952049         0.0000651402         0.0000926995         0.0004008629         0.0000601294         0.0019166255         0.0010422434         0.0000400863         0.0000826780         0.0013203420     
+ñ    0.0016335161         0.0002229800         0.0023801232         0.0001503236         0.0005837565         0.0032595161         0.0001578398         0.0001403020         0.0018364530         0.0000000000         0.0061682772         0.0031066871         0.0011975778         0.0012351587         0.0037530785         0.0024853497         0.0006664345         0.0016285054         0.0132159473         0.0008818983         0.0000275593         0.0002079476         0.0000400863         0.0004459599         0.0001202589         0.0000025054         0.0003607766         0.0033096240         0.0001277750         0.0001728721         0.0036954545     
+ò    0.0062634821         0.0003657874         0.0036403358         0.0001879045         0.0005712296         0.0052412819         0.0001453128         0.0001252696         0.0044946748         0.0000000000         0.0008067365         0.0003432388         0.0001853991         0.0016234946         0.0179260859         0.0005612080         0.0033672480         0.0015307950         0.0005111001         0.0018665177         0.0000375809         0.0000626348         0.0000801726         0.0004735193         0.0000150324         0.0000125270         0.0014355901         0.0062459444         0.0001227643         0.0000375809         0.0007566286     
+ó    0.0000776672         0.0009044468         0.0015909245         0.0016911402         0.0021771864         0.0003357226         0.0016510539         0.0015658705         0.0006714453         0.0000876888         0.0013453960         0.0014155470         0.0012351587         0.0010347273         0.0003707981         0.0014531279         0.0008092419         0.0021621540         0.0021546379         0.0001102373         0.0000551186         0.0004083790         0.0000150324         0.0012852665         0.0008117473         0.0003607766         0.0000000000         0.0000000000         0.0000952049         0.0011048783         0.0001478182     
+ô    0.0001302804         0.0000150324         0.0000150324         0.0000025054         0.0000050108         0.0000952049         0.0000000000         0.0000025054         0.0007791772         0.0000000000         0.0000000000         0.0001177535         0.0000025054         0.0000125270         0.0001177535         0.0000200431         0.0009019414         0.0000275593         0.0000300647         0.0000952049         0.0000025054         0.0000050108         0.0000000000         0.0000050108         0.0000025054         0.0000000000         0.0000025054         0.0000050108         0.0000000000         0.0000150324         0.0000025054     
+õ    0.0009194792         0.0001653559         0.0005261325         0.0001077319         0.0002455285         0.0001052265         0.0000551186         0.0000926995         0.0005862619         0.0000000000         0.0002304961         0.0003682928         0.0001954206         0.0004735193         0.0024678120         0.0004810354         0.0002680770         0.0006488968         0.0001703667         0.0003257011         0.0000275593         0.0000200431         0.0000175378         0.0000851834         0.0000476025         0.0000000000         0.0000000000         0.0000000000         0.0000400863         0.0000000000         0.0000175378     
+ö    0.0005612080         0.0000100216         0.0000626348         0.0000050108         0.0000100216         0.0011599969         0.0000025054         0.0000025054         0.0003231957         0.0000000000         0.0001102373         0.0000050108         0.0000025054         0.0000225485         0.0004359384         0.0000325701         0.0000050108         0.0000250539         0.0000075162         0.0008618551         0.0000000000         0.0000000000         0.0000000000         0.0000025054         0.0000000000         0.0000000000         0.0002254854         0.0000000000         0.0000025054         0.0000000000         0.0000025054     
+÷    0.0022924345         0.0000025054         0.0000200431         0.0000000000         0.0000050108         0.0036127765         0.0000075162         0.0000000000         0.0018640123         0.0000000000         0.0002430231         0.0000325701         0.0000050108         0.0005587026         0.0001202589         0.0000175378         0.0000375809         0.0000075162         0.0045422773         0.0008142527         0.0000000000         0.0000025054         0.0000000000         0.0000075162         0.0001302804         0.0000000000         0.0000000000         0.0002680770         0.0000025054         0.0000000000         0.0000000000     
+ø    0.0016710970         0.0000150324         0.0000150324         0.0000025054         0.0000025054         0.0025930816         0.0000000000         0.0000050108         0.0023550693         0.0000000000         0.0003582712         0.0004910570         0.0000150324         0.0004760246         0.0002831094         0.0000526133         0.0000050108         0.0000050108         0.0001027211         0.0002906256         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0001979260         0.0000025054         0.0000000000         0.0000000000     
+ù    0.0004960678         0.0000000000         0.0000025054         0.0000025054         0.0000000000         0.0014180524         0.0000000000         0.0000000000         0.0009094576         0.0000000000         0.0000025054         0.0000000000         0.0000000000         0.0000325701         0.0000000000         0.0000025054         0.0000050108         0.0000000000         0.0000000000         0.0001152481         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000075162         0.0000000000         0.0000000000         0.0000000000     
+û    0.0000375809         0.0005737350         0.0017637966         0.0001929153         0.0003958521         0.0017086779         0.0000526133         0.0001954206         0.0005662188         0.0017086779         0.0004033683         0.0031016764         0.0019416795         0.0007791772         0.0002881202         0.0006263482         0.0004334330         0.0014556333         0.0010021571         0.0000901941         0.0000501079         0.0013153313         0.0000225485         0.0003156795         0.0005687242         0.0000025054         0.0000000000         0.0000000000         0.0000476025         0.0000000000         0.0000225485     
+ü    0.0002655716         0.0003507550         0.0011850508         0.0002355069         0.0004559815         0.0023049614         0.0000701510         0.0004234114         0.0010171895         0.0000000000         0.0020794761         0.0001403020         0.0005211217         0.0024502742         0.0007891988         0.0009846194         0.0002304961         0.0019942927         0.0005737350         0.0001929153         0.0000526133         0.0000826780         0.0001252696         0.0004710139         0.0006413806         0.0000050108         0.0000000000         0.0000000000         0.0002505393         0.0004735193         0.0006338644     
+ý    0.0000000000         0.0000000000         0.0000000000         0.0000025054         0.0000025054         0.0000000000         0.0000000000         0.0000025054         0.0000000000         0.0000200431         0.0000676456         0.0000526133         0.0000025054         0.0000175378         0.0000000000         0.0000100216         0.0000000000         0.0000350755         0.0029839229         0.0000000000         0.0000000000         0.0000075162         0.0000000000         0.0000050108         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000         0.0000000000     
+þ    0.0001027211         0.0005411649         0.0002931310         0.0001227643         0.0007816826         0.0000876888         0.0000701510         0.0000926995         0.0003382280         0.0000000000         0.0002455285         0.0001077319         0.0001377966         0.0002705824         0.0002831094         0.0003181849         0.0002054422         0.0004735193         0.0007516179         0.0001002157         0.0000225485         0.0000300647         0.0000300647         0.0002330015         0.0000551186         0.0005186163         0.0000000000         0.0000000000         0.0000375809         0.0000476025         0.0000275593     
+ÿ    0.0002029368         0.0005186163         0.0016184838         0.0003933467         0.0012101048         0.0004660031         0.0007616394         0.0009069522         0.0009846194         0.0000350755         0.0010247057         0.0012752450         0.0007165424         0.0022548536         0.0008092419         0.0011549861         0.0003707981         0.0020444006         0.0021796918         0.0002204746         0.0000977103         0.0003231957         0.0000876888         0.0004985732         0.0000776672         0.0002956364         0.0000000000         0.0000000000         0.0002004314         0.0001052265         0.0002405177     
