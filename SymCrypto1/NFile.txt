@@ -1,4 +1,4 @@
-               monograms with ' '      monograms without ' '
+               monograms with ' '         monograms without ' '
 frequency for   : 0.1612811717
 frequency for à : 0.0671622268               0.0800772662
 frequency for á : 0.0142322058               0.0169690046
